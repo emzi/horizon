@@ -74,7 +74,7 @@ msgstr ""
 "Wird kein Containername angegeben, so wird ein Standardcontainer mit Namen "
 "volumebackups angelegt.\n"
 "Sicherungskopien haben die selbe Größe wie der Datenträger, von dem sie "
-"erstellt wurden.\n"
+"ساخته شد wurden.\n"
 " "
 
 msgid ""
@@ -268,9 +268,9 @@ msgid ""
 "application credential."
 msgstr ""
 "<b>Secret</b>: Sie können Ihr eigenes Geheimwort angeben oder es wird eines "
-"für Sie erstellt. Nachdem Sie Applikations-Zugangsdaten erstellt haben, wird "
+"für Sie ساخته شد. Nachdem Sie Applikations-Zugangsdaten ساخته شد haben, wird "
 "das Geheimwort einmalig angezeigt. Wenn Sie dieses verlieren, so müssen Sie "
-"neue Applikations-Zugangsdaten erstellen."
+"neue Applikations-Zugangsdaten ساختن."
 
 msgid ""
 "<b>Unrestricted</b>: By default, for security reasons, application "
@@ -341,7 +341,7 @@ msgid ""
 "A volume of %(req)iGiB cannot be created as you only have %(avail)iGiB of "
 "your quota available."
 msgstr ""
-"Ein Datenträger mit %(req)iGiB kann nicht erstellt werden. Es sind nur "
+"Ein Datenträger mit %(req)iGiB kann nicht ساخته شد werden. Es sind nur "
 "%(avail)iGiB Ihres Kontingentes verfügbar."
 
 msgid "AKI - Amazon Kernel Image"
@@ -355,10 +355,10 @@ msgid "AMI - Amazon Machine Image"
 msgstr "AMI - Amazon-Maschinenabbild"
 
 msgid "API Access"
-msgstr "API Zugriff"
+msgstr "دسترسی API"
 
 msgid "API Endpoints"
-msgstr "API Endpunkte"
+msgstr "اندپوینت‌های API"
 
 msgid "ARI - Amazon Ramdisk Image"
 msgstr "ARI - Amazon Ramdiskabbild"
@@ -379,14 +379,14 @@ msgid "Action"
 msgstr "Aktion"
 
 msgid "Action Log"
-msgstr "Aktionslog"
+msgstr "00000000000000000000"
 
 msgid "Action and Object Type"
-msgstr "Aktion und Objekttyp"
+msgstr "00000000000000000000"
 
 msgctxt "Current status of a Floating IP"
 msgid "Active"
-msgstr "Aktiv"
+msgstr "00000000000000000000"
 
 msgctxt "Current status of a Network"
 msgid "Active"
@@ -394,15 +394,15 @@ msgstr "Aktiv"
 
 msgctxt "Current status of an Image"
 msgid "Active"
-msgstr "Aktiv"
+msgstr "00000000000000000000"
 
 msgctxt "Current status of an Instance"
 msgid "Active"
-msgstr "Aktiv"
+msgstr "00000000000000000000"
 
 msgctxt "current status of port"
 msgid "Active"
-msgstr "Aktiv"
+msgstr "00000000000000000000"
 
 msgctxt "current status of router"
 msgid "Active"
@@ -410,10 +410,10 @@ msgstr "Aktiv"
 
 msgctxt "status of a network port"
 msgid "Active"
-msgstr "Aktiv"
+msgstr "00000000000000000000"
 
 msgid "Active Instances:"
-msgstr "Aktive Instanzen:"
+msgstr "00000000000000000000:"
 
 msgid ""
 "Actual device name may differ due to hypervisor settings. If not specified, "
@@ -433,13 +433,13 @@ msgid "Add DHCP Agent"
 msgstr "DHCP Agent hinzufügen"
 
 msgid "Add Group Assignment"
-msgstr "Gruppenzuweisung hinzufügen"
+msgstr "00000000000000000000"
 
 msgid "Add Interface"
-msgstr "Schnittstelle hinzufügen"
+msgstr "00000000000000000000"
 
 msgid "Add Protocol"
-msgstr "Protokoll hinzufügen"
+msgstr "00000000000000000000"
 
 msgid "Add Router Route"
 msgstr "Routerroute hinzufügen"
@@ -478,7 +478,7 @@ msgid ""
 "Add and remove security groups to this instance from the list of available "
 "security groups."
 msgstr ""
-"Hinzufügen und Löschen von Sicherheitsgruppen für diese Instanz aus der "
+"Hinzufügen und حذف von Sicherheitsgruppen für diese Instanz aus der "
 "Liste der verfügbaren Sicherheitsgruppen."
 
 msgid ""
@@ -498,7 +498,7 @@ msgid ""
 "security groups. The \"default\" security group is associated by default and "
 "you can remove \"default\" security group from the port."
 msgstr ""
-"Hinzufügen und Löschen von Sicherheitsgruppen für diesen Port aus der Liste "
+"Hinzufügen und حذف von Sicherheitsgruppen für diesen Port aus der Liste "
 "der verfügbaren Sicherheitsgruppen. Die \"Default\" Sicherheitsgruppe wird "
 "als Standard zugewiesen. Sie können die \"Default\" Sicherheitsgruppe vom "
 "Port entfernen."
@@ -507,11 +507,11 @@ msgid ""
 "Add or remove security groups to this port from the list of available "
 "security groups."
 msgstr ""
-"Hinzufügen und Löschen von Sicherheitsgruppen für diesen Port aus der Liste "
+"Hinzufügen und حذف von Sicherheitsgruppen für diesen Port aus der Liste "
 "der verfügbaren Sicherheitsgruppen."
 
 msgid "Add static route to the router."
-msgstr "Statische Route zum Router hinzufügen."
+msgstr "00000000000000000000."
 
 msgid ""
 "Add volume types to this group. Multiple volume types can be added to the "
@@ -530,7 +530,7 @@ msgid "Add/Remove Group Volumes"
 msgstr "Gruppen-Datenträger hinzufügen/entfernen"
 
 msgid "Add/Remove Hosts to Aggregate"
-msgstr "Hinzufügen/Entfernen von Hosts zum/vom Aggregat"
+msgstr "00000000000000000000"
 
 msgid ""
 "Add/remove volumes to/from this group. Only volumes associated with the "
@@ -542,8 +542,8 @@ msgstr ""
 
 msgid "Added User"
 msgid_plural "Added Users"
-msgstr[0] "Hinzugefügter Benutzer"
-msgstr[1] "Hinzugefügt Benutzer"
+msgstr[0] "00000000000000000000"
+msgstr[1] "00000000000000000000"
 
 msgid "Additional Routes"
 msgstr "Zusätzliche Routen"
@@ -569,19 +569,19 @@ msgid "Address pool"
 msgstr "Adresspool"
 
 msgid "Admin"
-msgstr "Administrator"
+msgstr "ادمین"
 
 msgid "Admin Password"
-msgstr "Administratorpasswort"
+msgstr "پسورد ادمین"
 
 msgid "Admin State"
-msgstr "Admin-Status"
+msgstr "حالت ادمین"
 
 msgid "Admin State ="
 msgstr "Admin Status ="
 
 msgid "Admin:"
-msgstr "Administrator:"
+msgstr "مدیر:"
 
 msgid ""
 "Administrator Note: Use the following CLI command to import the default "
@@ -591,7 +591,7 @@ msgstr ""
 "der Standarddefinitionen in Glance:"
 
 msgid "Advanced Options"
-msgstr "Weitergehende Optionen"
+msgstr "گزینه‌های پیشرفته"
 
 msgid ""
 "After launching an instance, you login using the private key (the username "
@@ -601,7 +601,7 @@ msgstr ""
 "Benutzername kann je nach gestartetem Abbild anders sein):"
 
 msgid "Age"
-msgstr "Alter"
+msgstr "سن"
 
 msgid "Age (Seconds)"
 msgstr "Alter (Sekunden)"
@@ -647,26 +647,26 @@ msgid "All available volumes"
 msgstr "Alle verfügbaren Datenträger"
 
 msgid "All ports"
-msgstr "Alle Ports"
+msgstr "همه پورت‌ها"
 
 msgid "Allocate Floating IP"
 msgstr "Floating IP belegen"
 
 msgid "Allocate IP"
-msgstr "IP belegen"
+msgstr "اختصاص آی‌پی"
 
 msgid "Allocate IP To Project"
 msgstr "IP zu Projekt zuweisen"
 
 msgid "Allocate Network Address from a pool"
-msgstr "Weise eine Netzwerkadresse aus einem Pool zu."
+msgstr "Weise eine شبکهadresse aus einem Pool zu."
 
 msgid "Allocate a floating IP from a given floating IP pool."
 msgstr "Floating IP aus einem angegebenen Pool belegen."
 
 msgctxt "Label in the limit summary"
 msgid "Allocated"
-msgstr "Zugewiesen"
+msgstr "اختصاص یافته"
 
 #, python-format
 msgid "Allocated Floating IP %(ip)s."
@@ -680,7 +680,7 @@ msgid "Allocation Pools"
 msgstr "Bereitstellung von Pools"
 
 msgid "Allowed Address Pairs"
-msgstr "Erlaubte Adressenpaare"
+msgstr "جفت آدرس‌های مجاز"
 
 msgid "An external (HTTP/HTTPS) URL to load the image from."
 msgstr "Externe URL (HTTP/HTTPS), von der das Abbild geladen werden soll."
@@ -700,7 +700,7 @@ msgid "Another Plugin-based Panel"
 msgstr "Eine weitere Plugin-basierte Tafel"
 
 msgid "Any"
-msgstr "Jede(s)"
+msgstr "همه"
 
 msgid "Any Availability Zone"
 msgstr "Irgendeine Verfügbarkeitszone"
@@ -719,7 +719,7 @@ msgid "Application credential name \"%s\" is already used."
 msgstr "Applikations-Zugangsdaten-Name \"%s\" wird schon verwendet."
 
 msgid "Architecture"
-msgstr "Architektur"
+msgstr "معماری"
 
 msgid "Associate"
 msgstr "Zuweisen"
@@ -794,7 +794,7 @@ msgid "Authorization Key"
 msgstr "Authorisierungsschlüssel"
 
 msgid "Automatic"
-msgstr "Automatisch"
+msgstr "خودکار"
 
 msgid ""
 "Automatic: The entire disk is a single partition and automatically resizes. "
@@ -829,7 +829,7 @@ msgstr ""
 "Verfügbarkeitszonen, in denen der Router eingeplant werden darf. Keine "
 "Angabe entspricht der Auswahl aller Verfügbarkeitszonen."
 
-msgid "Availability zone"
+msgid "زون در دسترس"
 msgstr "Verfügbarkeitszone"
 
 msgid ""
@@ -875,7 +875,7 @@ msgstr "Sichern"
 msgid "Backup Name"
 msgstr "Name der Sicherung"
 
-msgid "Backup Size (GiB)"
+msgid "حجم بکاپ (GiB)"
 msgstr "Datensicherung Größe (GiB)"
 
 msgid "Backup Snapshot"
@@ -947,18 +947,18 @@ msgid ""
 "By default, group type is created as public. To create a private group type, "
 "uncheck this field."
 msgstr ""
-"Ohne weitere Einstellung wird der Gruppentyp als öffentlich erstellt. Für "
-"einen privaten Gruppentyp entfernen Sie die Markierung."
+"Ohne weitere Einstellung wird der گروه als öffentlich ساخته شد. Für "
+"einen privaten گروه entfernen Sie die Markierung."
 
 msgid ""
 "By default, volume type is created as public. To create a private volume "
 "type, uncheck this field."
 msgstr ""
-"Ohne weitere Einstellung wird der Datenträgertyp als öffentlich erstellt. Um "
-"einen privaten Datenträgertyp zu erstellen, entfernen Sie die Markierung."
+"Ohne weitere Einstellung wird der Datenträgertyp als öffentlich ساخته شد. Um "
+"einen privaten Datenträgertyp zu ساختن, entfernen Sie die Markierung."
 
 msgid "CIDR"
-msgstr "CIDR"
+msgstr "00000000000000000000"
 
 msgid "CIDR must be specified."
 msgstr "CIDR muss angegeben werden."
@@ -966,7 +966,7 @@ msgstr "CIDR muss angegeben werden."
 #, python-format
 msgid "CIDRs allowed for user private %(ip_ver)s networks are %(allowed)s."
 msgstr ""
-"Erlaubte CIDRs für private Benutzernetzwerke %(ip_ver)s sind %(allowed)s."
+"Erlaubte CIDRs für private Benutzerشبکهe %(ip_ver)s sind %(allowed)s."
 
 msgid "CPU architecture of the image."
 msgstr "CPU Architektur des Abbildes."
@@ -979,7 +979,7 @@ msgstr "Transfer abbrechen"
 
 #, python-format
 msgid "Cannot find instance %s."
-msgstr "Instanz %s kann nicht gefunden werden."
+msgstr "00000000000000000000."
 
 #, python-format
 msgid "Cannot get console for instance %s."
@@ -1018,7 +1018,7 @@ msgstr ""
 msgid "Change your password. We highly recommend you create a strong one. "
 msgstr ""
 "Ändern Sie Ihr Passwort. Wir empfehlen Ihnen ein starkes Passwort zu "
-"erstellen."
+"ساختن."
 
 msgid "Changes Since"
 msgstr "Änderungen bisher"
@@ -1031,7 +1031,7 @@ msgid ""
 "associated with this group."
 msgstr ""
 "Wählen Sie &quot;Lösche Datenträger&quot; um auch alle mit dieser Gruppe "
-"verbundenen Datenträger zu löschen."
+"verbundenen Datenträger zu حذف."
 
 msgid "Checksum"
 msgstr "Prüfsumme"
@@ -1041,7 +1041,7 @@ msgid ""
 "QEMU disk image utility."
 msgstr ""
 "Wählen Sie \"Festplattenformat\" für das Abbild. Die Datenträgerabbilder "
-"werden mit dem QEMU Disk Image Utility erstellt."
+"werden mit dem QEMU Disk Image Utility ساخته شد."
 
 msgid ""
 "Choose a Host to evacuate servers to. If not selected, the scheduler will "
@@ -1061,7 +1061,7 @@ msgstr ""
 "Ihren öffentlichen SSH Schlüssel in das freie Feld ein."
 
 msgid "Choose a snapshot"
-msgstr "Wählen Sie eine Schattenkopie"
+msgstr "00000000000000000000"
 
 msgid "Choose a volume"
 msgstr "Wählen Sie einen Datenträger"
@@ -1070,7 +1070,7 @@ msgid "Choose an DHCP Agent to attach to."
 msgstr "Wählen Sie einen DHCP Agenten zum Verbinden."
 
 msgid "Choose an image"
-msgstr "Wähle ein Abbild"
+msgstr "00000000000000000000"
 
 msgid "Choose associated QoS Spec."
 msgstr "Verbundene QoS Spezifikation auswählen"
@@ -1095,7 +1095,7 @@ msgstr ""
 "Klassenloses Inter-Domain Routing (z.B. 192.168.0.0/24, oder 2001:db8::/128)"
 
 msgid "Clear Domain Context"
-msgstr "Domänen-Kontext löschen"
+msgstr "00000000000000000000"
 
 msgid "Clear Gateway"
 msgid_plural "Clear Gateways"
@@ -1104,8 +1104,8 @@ msgstr[1] "Gateways entfernen"
 
 msgid "Cleared Gateway"
 msgid_plural "Cleared Gateways"
-msgstr[0] "Entfernte Gateway"
-msgstr[1] "Entfernte Gateways"
+msgstr[0] "00000000000000000000"
+msgstr[1] "00000000000000000000"
 
 msgid "Click here to show only console"
 msgstr "Klicken Sie hier, um nur die Konsole anzuzeigen."
@@ -1125,13 +1125,13 @@ msgid "Cloning volume group \"%s\"."
 msgstr "Klone Datenträgergruppe \"%s\"."
 
 msgid "Close"
-msgstr "Schließen"
+msgstr "00000000000000000000"
 
 msgid "Code"
-msgstr "Code"
+msgstr "00000000000000000000"
 
 msgid "Cold Migrate"
-msgstr "Kaltes Migrieren"
+msgstr "00000000000000000000"
 
 msgid "Comma-delimited list of valid remote IDs from the identity provider."
 msgstr ""
@@ -1154,10 +1154,10 @@ msgid "Compute Services"
 msgstr "Compute Dienste"
 
 msgid "Confirm"
-msgstr "Bestätigen"
+msgstr "00000000000000000000"
 
 msgid "Confirm Password"
-msgstr "Passwort bestätigen"
+msgstr "00000000000000000000"
 
 msgid "Confirm Rebuild Password"
 msgstr "Bestätige Passwort erneuern"
@@ -1167,10 +1167,10 @@ msgid "Confirm Resize"
 msgstr "Größenänderung bestätigen"
 
 msgid "Confirm Resize/Migrate"
-msgstr "Größenänderung/Migration bestätigen"
+msgstr "00000000000000000000"
 
 msgid "Confirm new password"
-msgstr "Bestätige neues Passwort"
+msgstr "00000000000000000000"
 
 msgctxt "Current status of an Instance"
 msgid "Confirm or Revert Resize/Migrate"
@@ -1181,7 +1181,7 @@ msgid "Confirming Resize or Migrate"
 msgstr "Größenänderung oder Migration wird bestätigt"
 
 msgid "Console"
-msgstr "Konsole"
+msgstr "00000000000000000000"
 
 msgid "Console is currently unavailable."
 msgstr "Die Konsole ist momentan nicht verfügbar."
@@ -1220,132 +1220,132 @@ msgid "Crashed"
 msgstr "Abgestürzt"
 
 msgid "Create"
-msgstr "Erstellen"
+msgstr "00000000000000000000"
 
 msgctxt "Action log of an instance"
 msgid "Create"
-msgstr "Erstellen"
+msgstr "00000000000000000000"
 
 msgid "Create A RBAC Policy"
-msgstr "RBAC Richtlinie erstellen"
+msgstr "00000000000000000000"
 
 msgid "Create An Image"
-msgstr "Abbild erstellen"
+msgstr "00000000000000000000"
 
 msgid "Create Application Credential"
-msgstr "Applikations-Zugangsdaten erstellen"
+msgstr "00000000000000000000"
 
 msgid "Create Backup"
-msgstr "Sicherungskopie erstellen"
+msgstr "Sicherungskopie ساختن"
 
 msgid "Create Domain"
-msgstr "Domäne erstellen"
+msgstr "00000000000000000000"
 
 msgid "Create Encrypted Volume Type"
-msgstr "Verschlüsselten Datenträgertyp erstellen"
+msgstr "Verschlüsselten Datenträgertyp ساختن"
 
 msgid "Create Encryption"
-msgstr "Verschlüsselung erstellen"
+msgstr "00000000000000000000"
 
 msgid "Create Extra Spec For {{ qos_spec_name }}"
 msgstr "Erzeuge Extra Spezifikationen für {{ qos_spec_name }}"
 
 msgid "Create Flavor"
-msgstr "Variante erstellen"
+msgstr "ساخت فلیور"
 
-msgid "Create Group"
-msgstr "Gruppe erstellen"
+msgid "ساخت گروه"
+msgstr "Gruppe ساختن"
 
 msgid "Create Group Snapshot"
-msgstr "Gruppen-Schattenkopie erstellen"
+msgstr "Gruppen-Schattenkopie ساختن"
 
 msgid "Create Group Type"
-msgstr "Gruppentyp erstellen"
+msgstr "گروه ساختن"
 
 msgid "Create Group Type Spec"
-msgstr "Gruppentypspezifikation erstellen"
+msgstr "گروهspezifikation ساختن"
 
 msgid "Create Host Aggregate"
-msgstr "Hostaggregat erstellen"
+msgstr "Hostaggregat ساختن"
 
 msgid "Create Image"
-msgstr "Abbild erstellen"
+msgstr "Abbild ساختن"
 
 msgctxt "Action log of an instance"
 msgid "Create Image"
-msgstr "Abbild erstellen"
+msgstr "Abbild ساختن"
 
 msgid "Create Key Pair"
-msgstr "Schlüsselpaar erzeugen"
+msgstr "Schlüsselpaar ساختن"
 
 msgid "Create Mapping"
-msgstr "Zuordnung erstellen"
+msgstr "Zuordnung ساختن"
 
 msgid "Create Network"
-msgstr "Netzwerk erstellen"
+msgstr "شبکه ساختن"
 
 msgid "Create Network (Quota exceeded)"
-msgstr "Netzwerk erstellen (Kontingent überschritten)"
+msgstr "شبکه ساختن (Kontingent überschritten)"
 
 msgid "Create Port"
-msgstr "Port erstellen"
+msgstr "Port ساختن"
 
 msgid "Create Port (Quota exceeded)"
-msgstr "Port erstellen (Kontingent überschritten)"
+msgstr "Port ساختن (Kontingent überschritten)"
 
 msgid "Create Project"
-msgstr "Projekt erzeugen"
+msgstr "Projekt ساختن"
 
 msgid "Create Protocol"
-msgstr "Protokoll erstellen"
+msgstr "Protokoll ساختن"
 
 msgid "Create QoS Spec"
-msgstr "QoS-Spezifikation erstellen"
+msgstr "QoS-Spezifikation ساختن"
 
 msgid "Create RBAC Policy"
-msgstr "RBAC Richtlinie erstellen"
+msgstr "RBAC Richtlinie ساختن"
 
 msgid "Create Role"
-msgstr "Rolle erstellen"
+msgstr "Rolle ساختن"
 
 msgid "Create Router"
-msgstr "Router erstellen"
+msgstr "Router ساختن"
 
 msgid "Create Router (Quota exceeded)"
-msgstr "Router erstellen (Kontingent überschritten)"
+msgstr "Router ساختن (Kontingent überschritten)"
 
 msgid "Create Security Group"
-msgstr "Sicherheitsgruppe erstellen"
+msgstr "Sicherheitsgruppe ساختن"
 
 msgid "Create Security Group (Quota exceeded)"
 msgstr "Erzeuge Sicherheitsgruppe (Kontingent überschritten)"
 
 msgid "Create Snapshot"
-msgstr "Schattenkopie erstellen"
+msgstr "Schattenkopie ساختن"
 
 msgid "Create Spec"
-msgstr "Spezifikation erzeugen"
+msgstr "Spezifikation ساختن"
 
 msgid "Create Subnet"
-msgstr "Subnetz erstellen"
+msgstr "Subnetz ساختن"
 
 msgid "Create Subnet (Quota exceeded)"
-msgstr "Subnetz erstellen (Kontingent überschritten)"
+msgstr "Subnetz ساختن (Kontingent überschritten)"
 
 msgid "Create Transfer"
-msgstr "Transfer erstellen"
+msgstr "Transfer ساختن"
 
 msgid "Create User"
-msgstr "Benutzer erstellen"
+msgstr "Benutzer ساختن"
 
 msgid "Create Volume"
-msgstr "Datenträger erstellen"
+msgstr "Datenträger ساختن"
 
 msgid "Create Volume Backup"
-msgstr "Datenträger-Sicherungskopie erzeugen"
+msgstr "Datenträger-Sicherungskopie ساختن"
 
 msgid "Create Volume Group"
-msgstr "Datenrträgergruppe erstellen"
+msgstr "Datenrträgergruppe ساختن"
 
 msgid "Create Volume Snapshot"
 msgstr "Erzeuge Schattenkopie"
@@ -1354,19 +1354,19 @@ msgid "Create Volume Snapshot (Force)"
 msgstr "Erzeuge Schattenkopie (erzwungen)"
 
 msgid "Create Volume Transfer"
-msgstr "Datenträgertransfer erstellen"
+msgstr "Datenträgertransfer ساختن"
 
 msgid "Create Volume Type"
-msgstr "Datenträgertyp erstellen"
+msgstr "Datenträgertyp ساختن"
 
 msgid "Create Volume Type Encryption"
-msgstr "Datenträgertyp-Verschlüsselung erstellen"
+msgstr "Datenträgertyp-Verschlüsselung ساختن"
 
 msgid "Create Volume Type Extra Spec"
-msgstr "Extra Spezifikation für Datenträgertyp erzeugen"
+msgstr "Extra Spezifikation für Datenträgertyp ساختن"
 
 msgid "Create a Group Type"
-msgstr "Gruppentyp erstellen"
+msgstr "گروه ساختن"
 
 msgid ""
 "Create a Group that will contain newly created volumes cloned from each of "
@@ -1376,30 +1376,30 @@ msgstr ""
 "jeweiligen Schattenkopien der Quellgruppen-Schattenkopie geklont werden."
 
 msgid "Create a Metadata Namespace"
-msgstr "Metadaten-Namensraum erzeugen"
+msgstr "Metadaten-Namensraum ساختن"
 
 msgid "Create a New Volume"
-msgstr "Neuen Datenträger erstellen"
+msgstr "Neuen Datenträger ساختن"
 
 msgid "Create a RBAC Policy"
-msgstr "RBAC Richtlinie erstellen"
+msgstr "RBAC Richtlinie ساختن"
 
 msgid "Create a Router"
-msgstr "Router erstellen"
+msgstr "Router ساختن"
 
 msgid "Create a identity provider protocol."
-msgstr "Erstellen Sie ein Identitätsanbieterprotokoll."
+msgstr "ساختن Sie ein Identitätsanbieterprotokoll."
 
 msgid "Create a mapping."
-msgstr "Zuordnung erstellen."
+msgstr "Zuordnung ساختن."
 
 msgid "Create a new \"extra spec\" key-value pair for a volume type."
-msgstr "Neues \"extra spec\" Schlüssel-Wert-Paar für Datenträgertyp erzeugen."
+msgstr "Neues \"extra spec\" Schlüssel-Wert-Paar für Datenträgertyp ساختن."
 
 msgid "Create a new \"group type spec\" key-value pair for a group type."
 msgstr ""
-"Erzeugen Sie ein neues  \"group type spec\" Schlüsselpaar für einen "
-"Gruppentyp."
+"ساختن Sie ein neues  \"group type spec\" Schlüsselpaar für einen "
+"گروه."
 
 #, python-format
 msgid ""
@@ -1413,27 +1413,27 @@ msgstr ""
 "Backend-Schlüsseln."
 
 msgid "Create a new application credential."
-msgstr "Neue Applikations-Zugangsdaten erstellen."
+msgstr "Neue Applikations-Zugangsdaten ساختن."
 
 msgid ""
 "Create a new network. In addition, a subnet associated with the network can "
 "be created in the following steps of this wizard."
 msgstr ""
-"Ein neues Netzwerk erzeugen. Im weiteren Verlauf dieses Assistenten kann ein "
-"mit diesem Netzwerk verbundenes Subnetz erzeugt werden."
+"Ein neues شبکه ساختن. Im weiteren Verlauf dieses Assistenten kann ein "
+"mit diesem شبکه verbundenes Subnetz erzeugt werden."
 
 msgid "Create a new role."
-msgstr "Neue Rolle erstellen."
+msgstr "Neue Rolle ساختن."
 
 msgid ""
 "Create a new user and set related properties including the Primary Project "
 "and Role."
 msgstr ""
-"Erzeugen Sie einen neuen Benutzer und setzen Sie die entsprechenden "
+"ساختن Sie einen neuen Benutzer und setzen Sie die entsprechenden "
 "Eigenschaften, einschließlich primäres Projekt und primäre Rolle."
 
 msgid "Create a project to organize users."
-msgstr "Erzeugen Sie ein Projekt, um Benutzer zu verwalten."
+msgstr "ساختن Sie ein Projekt, um Benutzer zu verwalten."
 
 msgid "Create a snapshot for each volume contained in the Group."
 msgstr ""
@@ -1443,52 +1443,52 @@ msgid ""
 "Create a subnet associated with the network. Advanced configuration is "
 "available by clicking on the \"Subnet Details\" tab."
 msgstr ""
-"Ein Subnetz erzeugen, das mit dem Netzwerk verbunden ist. Die weitergehende "
+"Ein Subnetz ساختن, das mit dem شبکه verbunden ist. Die weitergehende "
 "Konfiguration ist mit Klick auf den \"Subnetz Detail\" Reiter verfügbar."
 
 msgid "Create an Encrypted Volume Type"
-msgstr "Einen verschlüsselten Datenträgertyp erstellen"
+msgstr "Einen verschlüsselten Datenträgertyp ساختن"
 
 msgid "Created"
-msgstr "Erstellt"
+msgstr "ساخته شد"
 
 msgctxt "Created time"
 msgid "Created"
-msgstr "Erstellt"
+msgstr "ساخته شد"
 
 msgid "Created At"
-msgstr "Erstellt am"
+msgstr "ساخته شد am"
 
 #, python-format
 msgid "Created extra spec \"%s\"."
-msgstr "Zusätzliche Spezifikation \"%s\" erstellt."
+msgstr "Zusätzliche Spezifikation \"%s\" ساخته شد."
 
 #, python-format
 msgid "Created group type spec \"%s\"."
-msgstr "Gruppentypspezifikation \"%s\" erstellt."
+msgstr "گروهspezifikation \"%s\" ساخته شد."
 
 #, python-format
 msgid "Created network \"%s\"."
-msgstr "Erstelltes Netzwerk \"%s\"."
+msgstr "ساخته شدes شبکه \"%s\"."
 
 #, python-format
 msgid "Created new domain \"%s\"."
-msgstr "Neue Domäne \"%s\" erstellt."
+msgstr "Neue دامنه \"%s\" ساخته شد."
 
 #, python-format
 msgid "Created new flavor \"%s\"."
-msgstr "Neue Variante \"%s\" erstellt."
+msgstr "Neue Variante \"%s\" ساخته شد."
 
 #, python-format
 msgid "Created new host aggregate \"%s\"."
-msgstr "Neues Hostaggregat \"%s\" erstellt."
+msgstr "Neues Hostaggregat \"%s\" ساخته شد."
 
 #, python-format
 msgid "Created new project \"%s\"."
-msgstr "Neues Projekt \"%s\" erstellt."
+msgstr "Neues Projekt \"%s\" ساخته شد."
 
 msgid "Created new volume group"
-msgstr "Neue Datenträger wurde erstellt"
+msgstr "Neue Datenträger wurde ساخته شد"
 
 #, python-format
 msgid "Created spec \"%s\"."
@@ -1496,11 +1496,11 @@ msgstr "Spezifikation \"%s\" erzeugt."
 
 #, python-format
 msgid "Created subnet \"%s\"."
-msgstr "Subnetz \"%s\" erstellt."
+msgstr "Subnetz \"%s\" ساخته شد."
 
 #, python-format
 msgid "Created volume transfer: \"%s\"."
-msgstr "Datenträgertransfer erstellt: \"%s\"."
+msgstr "Datenträgertransfer ساخته شد: \"%s\"."
 
 msgid "Creates a router with specified parameters."
 msgstr "Erzeugt einen Router mit den angegebenen Parametern."
@@ -1512,9 +1512,9 @@ msgid ""
 "want gateway please check the \"Disable Gateway\" checkbox. Advanced "
 "configuration is available by clicking on the \"Subnet Details\" tab."
 msgstr ""
-"Erzeugen eines mit dem Netzwerk verbundenen Subnetzes. Sie müssen eine "
-"gültige Netzwerkadresse sowie eine Gateway-IP angeben. Ohne Angabe einer "
-"Gateway-IP wird der erste Wert des Netzwerkes als Voreinstellung gewählt. "
+"ساختن eines mit dem شبکه verbundenen Subnetzes. Sie müssen eine "
+"gültige شبکهadresse sowie eine Gateway-IP angeben. Ohne Angabe einer "
+"Gateway-IP wird der erste Wert des شبکهes als Voreinstellung gewählt. "
 "Wenn Sie kein Gateway verwenden wollen markieren Sie die \"Gateway abschalten"
 "\" Option. Die fortgeschrittene Konfiguration ist über den \"Subnetz Details"
 "\" Reiter verfügbar."
@@ -1543,11 +1543,11 @@ msgstr "Erstelle Gruppe \"%s\"."
 
 #, python-format
 msgid "Creating group snapshot \"%s\"."
-msgstr "Gruppen-Schattenkopie \"%s\" wird erstellt."
+msgstr "Gruppen-Schattenkopie \"%s\" wird ساخته شد."
 
 #, python-format
 msgid "Creating volume \"%s\""
-msgstr "Erstellen Datenträger \"%s\""
+msgstr "ساختن Datenträger \"%s\""
 
 #, python-format
 msgid "Creating volume backup \"%s\""
@@ -1613,7 +1613,7 @@ msgid "DNS Assignment"
 msgstr "DNS-Zuordnung"
 
 msgid "DNS Domain"
-msgstr "DNS Domäne"
+msgstr "DNS دامنه"
 
 msgid "DNS Name"
 msgstr "DNS-Name"
@@ -1623,19 +1623,19 @@ msgstr "DNS Name Servers"
 
 msgctxt "Admin state of a Network"
 msgid "DOWN"
-msgstr "INAKTIV"
+msgstr "پایین"
 
 msgctxt "Admin state of a Port"
 msgid "DOWN"
-msgstr "INAKTIV"
+msgstr "پایین"
 
 msgctxt "Admin state of a Router"
 msgid "DOWN"
-msgstr "INAKTIV"
+msgstr "پایین"
 
 msgctxt "Current status of an Image"
 msgid "Deactivated"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgid "Decrypt Password"
 msgstr "Passwort entschlüsseln"
@@ -1652,103 +1652,103 @@ msgstr "Voreinstellungen"
 
 msgid "Delete"
 msgid_plural "Delete"
-msgstr[0] "Löschen"
-msgstr[1] "Löschen"
+msgstr[0] "حذف"
+msgstr[1] "حذف"
 
 msgid "Delete Application Credential"
 msgid_plural "Delete Application Credentials"
-msgstr[0] "Applikations-Zugangsdaten löschen"
-msgstr[1] "Applikations-Zugangsdaten löschen"
+msgstr[0] "Applikations-Zugangsdaten حذف"
+msgstr[1] "Applikations-Zugangsdaten حذف"
 
 msgid "Delete DHCP Agent"
 msgid_plural "Delete DHCP Agents"
-msgstr[0] "DHCP Agent löschen"
-msgstr[1] "DHCP Agenten löschen"
+msgstr[0] "DHCP Agent حذف"
+msgstr[1] "DHCP Agenten حذف"
 
 msgid "Delete Domain"
 msgid_plural "Delete Domains"
-msgstr[0] "Lösche Domäne"
-msgstr[1] "Lösche Domänen"
+msgstr[0] "Lösche دامنه"
+msgstr[1] "Lösche دامنهn"
 
 msgid "Delete Encryption"
 msgid_plural "Delete Encryptions"
-msgstr[0] "Verschlüsselung löschen"
-msgstr[1] "Verschlüsselungen löschen"
+msgstr[0] "Verschlüsselung حذف"
+msgstr[1] "Verschlüsselungen حذف"
 
 msgid "Delete Extra Spec"
 msgid_plural "Delete Extra Specs"
-msgstr[0] "Extra-Spezifikation löschen"
-msgstr[1] "Extra-Spezifikationen löschen"
+msgstr[0] "Extra-Spezifikation حذف"
+msgstr[1] "Extra-Spezifikationen حذف"
 
 msgid "Delete Flavor"
 msgid_plural "Delete Flavors"
-msgstr[0] "Variante löschen"
-msgstr[1] "Varianten löschen"
+msgstr[0] "Variante حذف"
+msgstr[1] "Varianten حذف"
 
 msgid "Delete Group"
 msgid_plural "Delete Groups"
-msgstr[0] "Gruppe löschen"
-msgstr[1] "Gruppen löschen"
+msgstr[0] "Gruppe حذف"
+msgstr[1] "Gruppen حذف"
 
 msgid "Delete Group Type"
 msgid_plural "Delete Group Types"
-msgstr[0] "Gruppentyp löschen"
-msgstr[1] "Gruppentypen löschen"
+msgstr[0] "گروه حذف"
+msgstr[1] "گروهen حذف"
 
 msgid "Delete Host Aggregate"
 msgid_plural "Delete Host Aggregates"
-msgstr[0] "Hostaggregat löschen"
-msgstr[1] "Hostaggregate löschen"
+msgstr[0] "Hostaggregat حذف"
+msgstr[1] "Hostaggregate حذف"
 
 msgid "Delete Image"
 msgid_plural "Delete Images"
-msgstr[0] "Abbild löschen"
-msgstr[1] "Abbilder löschen"
+msgstr[0] "Abbild حذف"
+msgstr[1] "Abbilder حذف"
 
 msgid "Delete Instance"
 msgid_plural "Delete Instances"
-msgstr[0] "Instanz löschen"
-msgstr[1] "Instanzen löschen"
+msgstr[0] "Instanz حذف"
+msgstr[1] "Instanzen حذف"
 
 msgid "Delete Interface"
 msgid_plural "Delete Interfaces"
-msgstr[0] "Schnittstelle löschen"
-msgstr[1] "Schnittstellen löschen"
+msgstr[0] "Schnittstelle حذف"
+msgstr[1] "Schnittstellen حذف"
 
 msgid "Delete Key Pair"
 msgid_plural "Delete Key Pairs"
-msgstr[0] "Schlüsselpaar löschen"
-msgstr[1] "Schlüsselpaare löschen"
+msgstr[0] "Schlüsselpaar حذف"
+msgstr[1] "Schlüsselpaare حذف"
 
 msgid "Delete Mapping"
 msgid_plural "Delete Mappings"
-msgstr[0] "Zuordnung löschen"
-msgstr[1] "Zuordnungen löschen"
+msgstr[0] "Zuordnung حذف"
+msgstr[1] "Zuordnungen حذف"
 
 msgid "Delete Namespace"
 msgid_plural "Delete Namespaces"
-msgstr[0] "Namensraum löschen"
-msgstr[1] "Namensräume löschen"
+msgstr[0] "Namensraum حذف"
+msgstr[1] "Namensräume حذف"
 
 msgid "Delete Network"
 msgid_plural "Delete Networks"
-msgstr[0] "Netzwerk löschen"
-msgstr[1] "Netzwerke löschen"
+msgstr[0] "شبکه حذف"
+msgstr[1] "شبکهe حذف"
 
 msgid "Delete Port"
 msgid_plural "Delete Ports"
-msgstr[0] "Port löschen"
-msgstr[1] "Ports löschen"
+msgstr[0] "Port حذف"
+msgstr[1] "Ports حذف"
 
 msgid "Delete Project"
 msgid_plural "Delete Projects"
-msgstr[0] "Projekt löschen"
-msgstr[1] "Projekte löschen"
+msgstr[0] "Projekt حذف"
+msgstr[1] "Projekte حذف"
 
 msgid "Delete Protocol"
 msgid_plural "Delete Protocols"
-msgstr[0] "Protokoll löschen"
-msgstr[1] "Protokolle löschen"
+msgstr[0] "Protokoll حذف"
+msgstr[1] "Protokolle حذف"
 
 msgid "Delete QoS Spec"
 msgid_plural "Delete QoS Specs"
@@ -1757,81 +1757,81 @@ msgstr[1] "Lösche QoS Spezifikationen"
 
 msgid "Delete RBAC Policy"
 msgid_plural "Delete RBAC Policies"
-msgstr[0] "RBAC Richtlinie löschen"
-msgstr[1] "RBAC Richtlinien löschen"
+msgstr[0] "RBAC Richtlinie حذف"
+msgstr[1] "RBAC Richtlinien حذف"
 
 msgid "Delete Role"
 msgid_plural "Delete Roles"
-msgstr[0] "Rolle löschen"
-msgstr[1] "Rollen löschen"
+msgstr[0] "Rolle حذف"
+msgstr[1] "Rollen حذف"
 
 msgid "Delete Router"
 msgid_plural "Delete Routers"
-msgstr[0] "Router löschen"
-msgstr[1] "Router löschen"
+msgstr[0] "Router حذف"
+msgstr[1] "Router حذف"
 
 msgid "Delete Rule"
 msgid_plural "Delete Rules"
-msgstr[0] "Regel löschen"
-msgstr[1] "Regeln löschen"
+msgstr[0] "Regel حذف"
+msgstr[1] "Regeln حذف"
 
 msgid "Delete Security Group"
 msgid_plural "Delete Security Groups"
-msgstr[0] "Sicherheitsgruppe löschen"
-msgstr[1] "Sicherheitsgruppen löschen"
+msgstr[0] "Sicherheitsgruppe حذف"
+msgstr[1] "Sicherheitsgruppen حذف"
 
 msgid "Delete Snapshot"
 msgid_plural "Delete Snapshots"
-msgstr[0] "Schattenkopie löschen"
-msgstr[1] "Schattenkopien löschen"
+msgstr[0] "Schattenkopie حذف"
+msgstr[1] "Schattenkopien حذف"
 
 msgid "Delete Spec"
 msgid_plural "Delete Specs"
-msgstr[0] "Spezifikation löschen"
-msgstr[1] "Spezifikationen löschen"
+msgstr[0] "Spezifikation حذف"
+msgstr[1] "Spezifikationen حذف"
 
 msgid "Delete Static Route"
 msgid_plural "Delete Static Routes"
-msgstr[0] "Statische Route löschen"
-msgstr[1] "Statische Routen löschen"
+msgstr[0] "Statische Route حذف"
+msgstr[1] "Statische Routen حذف"
 
 msgid "Delete Subnet"
 msgid_plural "Delete Subnets"
-msgstr[0] "Subnetz löschen"
-msgstr[1] "Subnetze löschen"
+msgstr[0] "Subnetz حذف"
+msgstr[1] "Subnetze حذف"
 
 msgid "Delete User"
 msgid_plural "Delete Users"
-msgstr[0] "Benutzer löschen"
-msgstr[1] "Benutzer löschen"
+msgstr[0] "Benutzer حذف"
+msgstr[1] "Benutzer حذف"
 
 msgid "Delete Volume"
 msgid_plural "Delete Volumes"
-msgstr[0] "Datenträger löschen"
-msgstr[1] "Datenträger löschen"
+msgstr[0] "Datenträger حذف"
+msgstr[1] "Datenträger حذف"
 
 msgid "Delete Volume Backup"
 msgid_plural "Delete Volume Backups"
-msgstr[0] "Datenträgersicherung löschen"
-msgstr[1] "Datenträgersicherungen löschen"
+msgstr[0] "Datenträgersicherung حذف"
+msgstr[1] "Datenträgersicherungen حذف"
 
 msgid "Delete Volume Snapshot"
 msgid_plural "Delete Volume Snapshots"
-msgstr[0] "Datenträger-Schattenkopie löschen"
-msgstr[1] "Datenträger-Schattenkopien löschen"
+msgstr[0] "Datenträger-Schattenkopie حذف"
+msgstr[1] "Datenträger-Schattenkopien حذف"
 
 msgid "Delete Volume Type"
 msgid_plural "Delete Volume Types"
-msgstr[0] "Datenträgertyp löschen"
-msgstr[1] "Datenträgertypen löschen"
+msgstr[0] "Datenträgertyp حذف"
+msgstr[1] "Datenträgertypen حذف"
 
 msgid "Delete Volumes"
-msgstr "Datenträger löschen"
+msgstr "Datenträger حذف"
 
 #, python-format
 msgid "Delete the created network \"%s\" due to subnet creation failure."
 msgstr ""
-"Lösche das Netzwerk \"%s\" wegen eines Fehlers beim Erzeugen des Subnetzes."
+"Lösche das شبکه \"%s\" wegen eines Fehlers beim ساختن des Subnetzes."
 
 msgid "Deleted"
 msgstr "Gelöscht"
@@ -1856,8 +1856,8 @@ msgstr[1] "Gelöschte DHCP Agenten"
 
 msgid "Deleted Domain"
 msgid_plural "Deleted Domains"
-msgstr[0] "Gelöschte Domäne"
-msgstr[1] "Gelöschte Domänen"
+msgstr[0] "Gelöschte دامنه"
+msgstr[1] "Gelöschte دامنهn"
 
 msgid "Deleted Encryption"
 msgid_plural "Deleted Encryptions"
@@ -1881,8 +1881,8 @@ msgstr[1] "Gelöschte Gruppen"
 
 msgid "Deleted Group Type"
 msgid_plural "Deleted Group Types"
-msgstr[0] "Gelöschter Gruppentyp"
-msgstr[1] "Gelöschte Gruppentypen"
+msgstr[0] "Gelöschter گروه"
+msgstr[1] "Gelöschte گروهen"
 
 msgid "Deleted Host Aggregate"
 msgid_plural "Deleted Host Aggregates"
@@ -1916,8 +1916,8 @@ msgstr[1] "Gelöschte Namensräume"
 
 msgid "Deleted Network"
 msgid_plural "Deleted Networks"
-msgstr[0] "Gelöschtes Netzwerk"
-msgstr[1] "Gelöschte Netzwerke"
+msgstr[0] "Gelöschtes شبکه"
+msgstr[1] "Gelöschte شبکهe"
 
 msgid "Deleted Port"
 msgid_plural "Deleted Ports"
@@ -2024,7 +2024,7 @@ msgstr "Lösche"
 
 msgctxt "Current status of a Volume"
 msgid "Deleting"
-msgstr "Löschen"
+msgstr "حذف"
 
 msgctxt "Current status of a Volume Backup"
 msgid "Deleting"
@@ -2139,11 +2139,11 @@ msgstr "Richtung"
 
 msgid "Disable Domain"
 msgid_plural "Disable Domains"
-msgstr[0] "Domäne sperren"
-msgstr[1] "Domänen sperren"
+msgstr[0] "دامنه sperren"
+msgstr[1] "دامنهn sperren"
 
 msgid "Disable Domains"
-msgstr "Domänen sperren"
+msgstr "دامنهn sperren"
 
 msgid "Disable Gateway"
 msgstr "Gateway abschalten"
@@ -2171,8 +2171,8 @@ msgstr "Deaktiviert"
 
 msgid "Disabled Domain"
 msgid_plural "Disabled Domains"
-msgstr[0] "Gesperrte Domäne"
-msgstr[1] "Gesperrte Domänen"
+msgstr[0] "Gesperrte دامنه"
+msgstr[1] "Gesperrte دامنهn"
 
 msgid "Disabled User"
 msgid_plural "Disabled Users"
@@ -2231,43 +2231,43 @@ msgid "Docker"
 msgstr "Docker"
 
 msgid "Domain"
-msgstr "Domäne"
+msgstr "دامنه"
 
 #, python-format
 msgid "Domain \"%s\" must be disabled before it can be deleted."
 msgstr ""
-"Die Domäne \"%s\" muss deaktiviert werden, bevor sie gelöscht werden kann."
+"Die دامنه \"%s\" muss deaktiviert werden, bevor sie gelöscht werden kann."
 
 msgid "Domain Context cleared."
-msgstr "Domänen-Kontext gelöscht."
+msgstr "دامنهn-Kontext gelöscht."
 
 #, python-format
 msgid "Domain Context updated to Domain %s."
-msgstr "Domänen-Kontext auf Domäne %s aktualisiert."
+msgstr "دامنهn-Kontext auf دامنه %s aktualisiert."
 
 msgid "Domain Groups"
-msgstr "Domänengruppen"
+msgstr "دامنهngruppen"
 
 msgid "Domain ID"
-msgstr "Domänen-ID"
+msgstr "دامنهn-ID"
 
 msgid "Domain Information"
-msgstr "Domäneninformationen"
+msgstr "دامنهninformationen"
 
 msgid "Domain Members"
-msgstr "Domänen Mitglieder"
+msgstr "دامنهn Mitglieder"
 
 msgid "Domain Name"
-msgstr "Domänenname"
+msgstr "دامنهnname"
 
 msgid "Domains"
-msgstr "Domänen"
+msgstr "دامنهn"
 
 msgid ""
 "Domains provide separation between users and infrastructure used by "
 "different organizations."
 msgstr ""
-"Domänen bieten eine Teilung zwischen Benutzern und Infrastruktur, die von "
+"دامنهn bieten eine Teilung zwischen Benutzern und Infrastruktur, die von "
 "verschiedenen Organisationen verwendet wird."
 
 msgid ""
@@ -2275,35 +2275,35 @@ msgid ""
 "different organizations. Edit the domain details to add or remove groups in "
 "the domain."
 msgstr ""
-"Domänen erlauben die Trennung von Benutzern und Infrastruktur, die von "
+"دامنهn erlauben die Trennung von Benutzern und Infrastruktur, die von "
 "unterschiedlichen Organisationen genutzt wird. Bearbeiten Sie die Details "
-"der Domäne, um Gruppen zur Domäne hinzuzufügen oder zu löschen."
+"der دامنه, um Gruppen zur دامنه hinzuzufügen oder zu حذف."
 
 msgid "Domains:"
-msgstr "Domänen:"
+msgstr "دامنهn:"
 
 msgid "Down"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgctxt "Current state of a Hypervisor"
 msgid "Down"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgctxt "Current status of a Floating IP"
 msgid "Down"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgctxt "Current status of a Network"
 msgid "Down"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgctxt "current status of port"
 msgid "Down"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgctxt "status of a network port"
 msgid "Down"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgid "Download CSV Summary"
 msgstr "Zusammenfassung als CSV herunterladen"
@@ -2355,7 +2355,7 @@ msgid "Edit Consumer"
 msgstr "Benutzer bearbeiten"
 
 msgid "Edit Domain"
-msgstr "Domäne bearbeiten"
+msgstr "دامنه bearbeiten"
 
 #, python-format
 msgid "Edit Extra Spec Value: %s"
@@ -2368,14 +2368,14 @@ msgid "Edit Group"
 msgstr "Gruppe bearbeiten"
 
 msgid "Edit Group Type"
-msgstr "Gruppentyp bearbeiten"
+msgstr "گروه bearbeiten"
 
 msgid "Edit Group Type Spec"
-msgstr "Gruppentypspezifikation bearbeiten"
+msgstr "گروهspezifikation bearbeiten"
 
 #, python-format
 msgid "Edit Group Type Spec Value: %s"
-msgstr "Gruppentypspezifikation Wert bearbeiten: %s"
+msgstr "گروهspezifikation Wert bearbeiten: %s"
 
 msgid "Edit Host Aggregate"
 msgstr "Hostaggregat bearbeiten"
@@ -2396,7 +2396,7 @@ msgid "Edit Namespace Attributes"
 msgstr "Namensraum-Attribute bearbeiten"
 
 msgid "Edit Network"
-msgstr "Netzwerk bearbeiten"
+msgstr "شبکه bearbeiten"
 
 msgid "Edit Policy"
 msgstr "Richtlinie bearbeiten"
@@ -2487,11 +2487,11 @@ msgstr "DHCP aktivieren"
 
 msgid "Enable Domain"
 msgid_plural "Enable Domains"
-msgstr[0] "Domäne freigeben"
-msgstr[1] "Domänen freigeben"
+msgstr[0] "دامنه freigeben"
+msgstr[1] "دامنهn freigeben"
 
 msgid "Enable Domains"
-msgstr "Domänen freigeben"
+msgstr "دامنهn freigeben"
 
 msgid "Enable HA mode"
 msgstr "HA Modus aktivieren"
@@ -2501,7 +2501,7 @@ msgstr "SNAT aktivieren"
 
 msgid "Enable SNAT will only have an effect if an external network is set."
 msgstr ""
-"Die Aktivierung von SNAT hat nur eine Auswirkung, wenn ein externes Netzwerk "
+"Die Aktivierung von SNAT hat nur eine Auswirkung, wenn ein externes شبکه "
 "angegeben ist."
 
 msgid "Enable Service"
@@ -2529,8 +2529,8 @@ msgstr "Aktiviert ="
 
 msgid "Enabled Domain"
 msgid_plural "Enabled Domains"
-msgstr[0] "Freigegebene Domäne"
-msgstr[1] "Freigegebene Domänen"
+msgstr[0] "Freigegebene دامنه"
+msgstr[1] "Freigegebene دامنهn"
 
 msgid "Enabled Service"
 msgid_plural "Enabled Services"
@@ -2577,7 +2577,7 @@ msgid "Endpoints"
 msgstr "Endpunkte"
 
 msgid "Enter Network Address manually"
-msgstr "Geben Sie die Netzwerkadresse manuell ein"
+msgstr "Geben Sie die شبکهadresse manuell ein"
 
 msgid "Enter a value for ICMP code in the range (-1: 255)"
 msgstr "Geben Sie einen Wert für den ICMP-Code im Bereich -1 bis 255 ein"
@@ -2651,18 +2651,18 @@ msgstr "Fehler bei Erweiterung"
 
 msgctxt "Current status of a Volume"
 msgid "Error Restoring"
-msgstr "Fehler beim Wiederherstellen"
+msgstr "Fehler beim Wiederhساختن"
 
 msgctxt "Current status of a Volume Backup"
 msgid "Error Restoring"
-msgstr "Fehler beim Wiederherstellen"
+msgstr "Fehler beim Wiederhساختن"
 
 msgid "Error adding Hosts to the aggregate."
 msgstr "Fehler beim Hinzufügen von Hosts zum Aggregat."
 
 msgctxt "Current status of a Volume"
 msgid "Error deleting"
-msgstr "Fehler beim Löschen"
+msgstr "Fehler beim حذف"
 
 msgid "Error editing QoS Spec consumer."
 msgstr "Fehler bei der Bearbeitung des Verbrauchers der QoS Spezifikation."
@@ -2691,13 +2691,13 @@ msgid "Error writing zipfile: %(exc)s"
 msgstr "Fehler beim Schreiben in Zipfile: %(exc)s"
 
 msgid "Errors occurred in deleting group."
-msgstr "Fehler beim Löschen der Gruppe."
+msgstr "Fehler beim حذف der Gruppe."
 
 msgid "Errors occurred in removing volumes from group."
 msgstr "Fehler beim Entfernen von Datenträgern aus der Gruppe."
 
 msgid "Ether Type"
-msgstr "Netzwerktyp"
+msgstr "شبکهtyp"
 
 msgid "Euca2ools state"
 msgstr "Euca2ools Status"
@@ -2771,14 +2771,14 @@ msgid "External Gateway"
 msgstr "Externes Gateway"
 
 msgid "External Network"
-msgstr "Externes Netzwerk"
+msgstr "Externes شبکه"
 
 #, python-format
 msgid ""
 "External network \"%(ext_net_id)s\" expected but not found for router "
 "\"%(router_id)s\"."
 msgstr ""
-"Das externe Netzwerk \"%(ext_net_id)s\" wird erwartet, aber auf dem Router "
+"Das externe شبکه \"%(ext_net_id)s\" wird erwartet, aber auf dem Router "
 "\"%(router_id)s\" nicht gefunden."
 
 msgid "Extra Specs"
@@ -2808,7 +2808,7 @@ msgstr ""
 #, python-format
 msgid "Failed to add agent %(agent_name)s for network %(network)s."
 msgstr ""
-"Fehler beim Hinzufügen des Agenten %(agent_name)s für das Netzwerk "
+"Fehler beim Hinzufügen des Agenten %(agent_name)s für das شبکه "
 "%(network)s."
 
 #, python-format
@@ -2844,39 +2844,39 @@ msgstr "Fehler bei der Erstellung der RBAC Richtlinie."
 
 #, python-format
 msgid "Failed to create network \"%s\"."
-msgstr "Das Netzwerk \"%s\" konnte nicht erstellt werden."
+msgstr "Das شبکه \"%s\" konnte nicht ساخته شد werden."
 
 #, python-format
 msgid "Failed to create network %s"
-msgstr "Das Netzwerk %s konnte nicht erstellt werden."
+msgstr "Das شبکه %s konnte nicht ساخته شد werden."
 
 #, python-format
 msgid "Failed to create port \"%s\"."
-msgstr "Port \"%s\" konnte nicht erstellt werden."
+msgstr "Port \"%s\" konnte nicht ساخته شد werden."
 
 #, python-format
 msgid "Failed to create router \"%s\"."
 msgstr "Router \"%s\" konnte nicht angelegt werden."
 
 msgid "Failed to create router."
-msgstr "Fehler beim Erstellen des Routers."
+msgstr "Fehler beim ساختن des Routers."
 
 #, python-format
 msgid "Failed to create subnet \"%(sub)s\" for network \"%(net)s\"."
 msgstr ""
-"Fehler beim Erzeugen des Subnetzes \"%(sub)s\" für Netzwerk \"%(net)s\"."
+"Fehler beim ساختن des Subnetzes \"%(sub)s\" für شبکه \"%(net)s\"."
 
 #, python-format
 msgid "Failed to create subnet \"%(sub)s\"."
-msgstr "Fehler beim Erzeugen des Subnetzes \"%(sub)s\"."
+msgstr "Fehler beim ساختن des Subnetzes \"%(sub)s\"."
 
 #, python-format
 msgid "Failed to delete network \"%s\""
-msgstr "Das Netzwerk \"%s\" konnte nicht gelöscht werden."
+msgstr "Das شبکه \"%s\" konnte nicht gelöscht werden."
 
 #, python-format
 msgid "Failed to delete port %s"
-msgstr "Fehler beim Löschen des Ports %s"
+msgstr "Fehler beim حذف des Ports %s"
 
 #, python-format
 msgid "Failed to disable compute service for host: %s."
@@ -2904,7 +2904,7 @@ msgid "Failed to get mapping list %s"
 msgstr "Abrufen der Zuordnungsliste %s fehlgeschlagen."
 
 msgid "Failed to get network list."
-msgstr "Fehler beim Abruf der Netzwerkliste."
+msgstr "Fehler beim Abruf der شبکهliste."
 
 msgid "Failed to live migrate instance to a new host."
 msgstr ""
@@ -2935,13 +2935,13 @@ msgstr ""
 
 #, python-format
 msgid "Failed to modify %s domain groups."
-msgstr "Fehler beim Ändern der %s Domänengruppen."
+msgstr "Fehler beim Ändern der %s دامنهngruppen."
 
 #, python-format
 msgid "Failed to modify %s project members and update domain groups."
 msgstr ""
 "Fehler beim Ändern der Projektmitglieder %s und Aktualisieren der "
-"Domänengruppen."
+"دامنهngruppen."
 
 #, python-format
 msgid ""
@@ -2969,7 +2969,7 @@ msgstr "Fehler beim setzen des Gateways."
 
 #, python-format
 msgid "Failed to update network %s"
-msgstr "Das Netzwerk %s konnte nicht aktualisiert werden."
+msgstr "Das شبکه %s konnte nicht aktualisiert werden."
 
 #, python-format
 msgid "Failed to update port \"%s\"."
@@ -3080,7 +3080,7 @@ msgstr "Floating IPs"
 
 #, python-format
 msgid "For %(type)s networks, valid IDs are %(min)s to %(max)s."
-msgstr "Gültige IDs für Netzwerke vom Typ %(type)s sind %(min)s bis %(max)s."
+msgstr "Gültige IDs für شبکهe vom Typ %(type)s sind %(min)s bis %(max)s."
 
 msgid ""
 "For TCP and UDP rules you may choose to open either a single port or a range "
@@ -3131,16 +3131,16 @@ msgid "From Port"
 msgstr "Von-Port"
 
 msgid "From here you can add a DHCP agent for the network."
-msgstr "Hier können Sie DHCP Agenten für das Netzwerk hinzufügen."
+msgstr "Hier können Sie DHCP Agenten für das شبکه hinzufügen."
 
 msgid "From here you can allocate a floating IP to a specific project."
 msgstr "Hier können Sie eine Floating IP einem bestimmten Projekt zuweisen."
 
 msgid "From here you can create a rbac policy."
-msgstr "Hier können Sie RBAC Richtlinien erstellen."
+msgstr "Hier können Sie RBAC Richtlinien ساختن."
 
 msgid "From here you can create a snapshot of a volume."
-msgstr "Hier kann eine Schattenkopie eines Datenträger erstellt werden."
+msgstr "Hier kann eine Schattenkopie eines Datenträger ساخته شد werden."
 
 msgid "From here you can update the default compute quotas (max limits)."
 msgstr ""
@@ -3226,21 +3226,21 @@ msgid "Group Snapshots"
 msgstr "Gruppen-Schattenkopien"
 
 msgid "Group Type"
-msgstr "Gruppentyp"
+msgstr "گروه"
 
 msgid "Group Type Specs"
-msgstr "Gruppentypspezifikationen"
+msgstr "گروهspezifikationen"
 
 #, python-format
 msgid "Group Type: %(group_type_name)s"
-msgstr "Gruppentyp: %(group_type_name)s"
+msgstr "گروه: %(group_type_name)s"
 
 #, python-format
 msgid "Group Type: %(group_type_name)s "
-msgstr "Gruppentyp: %(group_type_name)s "
+msgstr "گروه: %(group_type_name)s "
 
 msgid "Group Types"
-msgstr "Gruppentypen"
+msgstr "گروهen"
 
 msgid "Group has been updated successfully."
 msgstr "Gruppe wurde erfolgreich aktualisiert."
@@ -3264,7 +3264,7 @@ msgstr ""
 
 #, python-format
 msgid "Group type name \"%s\" already exists."
-msgstr "Gruppentypname \"%s\" ist schon vorhanden."
+msgstr "گروهname \"%s\" ist schon vorhanden."
 
 msgid "Group type name can not be empty."
 msgstr "Der Gruppenname darf nicht leer sein."
@@ -3308,16 +3308,16 @@ msgstr "Zurücksetzen"
 
 msgid "Hard Reboot Instance"
 msgid_plural "Hard Reboot Instances"
-msgstr[0] "Harter Neustart Instanz"
-msgstr[1] "Harter Neustart Instanzen"
+msgstr[0] "Harter ریبوت Instanz"
+msgstr[1] "Harter ریبوت Instanzen"
 
 msgctxt "Task status of an Instance"
 msgid "Hard Reboot Pending"
-msgstr "Harter Neustart - Anstehend"
+msgstr "Harter ریبوت - Anstehend"
 
 msgctxt "Task status of an Instance"
 msgid "Hard Reboot Started"
-msgstr "Harter Neustart - Gestartet"
+msgstr "Harter ریبوت - Gestartet"
 
 msgid "Hard Rebooted Instance"
 msgid_plural "Hard Rebooted Instances"
@@ -3326,7 +3326,7 @@ msgstr[1] "Hart neu gestartete Instanzen"
 
 msgctxt "Task status of an Instance"
 msgid "Hard Rebooting"
-msgstr "Harter Neustart"
+msgstr "Harter ریبوت"
 
 msgid "Has Snapshots"
 msgstr "Hat Schattenkopien"
@@ -3375,7 +3375,7 @@ msgid ""
 "it."
 msgstr ""
 "Hostaggregate teilen durch das Gruppieren von Hosts eine Verfügbarkeitszone "
-"in logische Einheiten. Erzeugen Sie ein Hostaggregat und wählen Sie dann die "
+"in logische Einheiten. ساختن Sie ein Hostaggregat und wählen Sie dann die "
 "zugehörigen Hosts aus."
 
 msgid ""
@@ -3468,7 +3468,7 @@ msgid ""
 "use a gateway, check 'Disable Gateway' below."
 msgstr ""
 "IP-Adresse des Gateways (z.B. 192.168.0.254) Der Standardwert ist die erste "
-"IP-Adresse des Netzwerks (z.B. 192.168.0.1 für 192.168.0.0/24, 2001:DB8::1 "
+"IP-Adresse des شبکهs (z.B. 192.168.0.1 für 192.168.0.0/24, 2001:DB8::1 "
 "für 2001:DB8::/48). Für den Standard das Feld leer lassen. Falls kein "
 "Gateway genutzt werden soll, bitte unten 'Gateway abschalten' auswählen."
 
@@ -3506,7 +3506,7 @@ msgid "Identity Providers"
 msgstr "Identitätsanbieter"
 
 msgid "Identity provider protocol created successfully."
-msgstr "Identitätsanbieterprotokoll erfolgreich erstellt."
+msgstr "Identitätsanbieterprotokoll erfolgreich ساخته شد."
 
 msgid "Identity provider registered successfully."
 msgstr "Identitätsanbieter erfolgreich registriert."
@@ -3525,10 +3525,10 @@ msgid ""
 "volume type."
 msgstr ""
 "Wenn \"Kein Datenträger-Typ\" ausgewählt ist, wird der Datenträger ohne "
-"Datenträger-Typ erstellt."
+"Datenträger-Typ ساخته شد."
 
 msgid "If checked, the network will be enabled."
-msgstr "Wenn ausgewählt, wird das Netzwerk aktiviert."
+msgstr "Wenn ausgewählt, wird das شبکه aktiviert."
 
 msgid "If checked, the port will be enabled."
 msgstr "Wenn ausgewählt, wird der Port aktiviert."
@@ -3718,7 +3718,7 @@ msgstr "Unzureichende Berechtigung zum Abruf der Schlüsselpaarliste."
 
 msgid "Insufficient privilege level to view domain information."
 msgstr ""
-"Unzureichende Berechtigungsebene für die Anzeige von Domäneninformationen."
+"Unzureichende Berechtigungsebene für die Anzeige von دامنهninformationen."
 
 msgid "Insufficient privilege level to view group information."
 msgstr ""
@@ -3777,7 +3777,7 @@ msgstr ""
 "der Zukunft an."
 
 msgid "It specifies the VNIC type bound to the networking port."
-msgstr "Es definiert den mit dem Netzwerkport verbundenen VNIC Typ."
+msgstr "Es definiert den mit dem شبکهport verbundenen VNIC Typ."
 
 msgid "Items Per Page"
 msgstr "Einträge pro Seite"
@@ -3843,7 +3843,7 @@ msgid ""
 "create key with different name."
 msgstr ""
 "Der Schlüssel mit dem Namen \"%s\" ist bereits vorhanden. Bearbeiten Sie den "
-"Wert oder erstellen Sie einen Schlüssel mit einem anderen Namen."
+"Wert oder ساختن Sie einen Schlüssel mit einem anderen Namen."
 
 msgid "Key-Value Pairs"
 msgstr "Schlüssel-Wert Paare"
@@ -3866,7 +3866,7 @@ msgstr "Schlüssel: total_bytes_sec_max und Wert: 512000"
 msgid "Key: total_iops_sec and Value: 5000"
 msgstr "Schlüssel: total_iops_sec und Wert: 5000"
 
-msgctxt "Current status of an Image"
+msgctxt "وضعیت کنونی یک Image"
 msgid "Killed"
 msgstr "Beendet"
 
@@ -3877,7 +3877,7 @@ msgid "L3 Agent"
 msgstr "L3 Agent"
 
 msgid "Language"
-msgstr "Sprache"
+msgstr "زبان"
 
 msgctxt "Time since the last update"
 msgid "Last Updated"
@@ -4056,7 +4056,7 @@ msgid "Mapping ID \"%s\" is already used."
 msgstr "Zuordnungs-ID \"%s\" wird bereits verwendet."
 
 msgid "Mapping created successfully."
-msgstr "Zuordnung erfolgreich erstellt."
+msgstr "Zuordnung erfolgreich ساخته شد."
 
 msgid "Mapping updated successfully."
 msgstr "Zuordnung erfolgreich aktualisiert."
@@ -4180,7 +4180,7 @@ msgstr "Fehlende erforderliche Einstellungen: {}."
 
 #, python-format
 msgid "Modified domain \"%s\"."
-msgstr "Domäne \"%s\" geändert."
+msgstr "دامنه \"%s\" geändert."
 
 #, python-format
 msgid "Modified flavor access of \"%s\"."
@@ -4217,7 +4217,7 @@ msgid "Modify dashboard settings for your user."
 msgstr "Verändern Sie Dashboard-Einstellungen für Ihren Benutzer."
 
 msgid "Modify group type name, description, and public status."
-msgstr "Ändern des Gruppentypnamens, Beschreibung und öffentlichem Status"
+msgstr "Ändern des گروهnamens, Beschreibung und öffentlichem Status"
 
 msgid "Modify name and description of a volume."
 msgstr "Namen und Beschreibung eines Datenträgers ändern."
@@ -4266,7 +4266,7 @@ msgstr "Namensraum"
 
 #, python-format
 msgid "Namespace %s has been created."
-msgstr "Namensraum %s wurde erstellt."
+msgstr "Namensraum %s wurde ساخته شد."
 
 msgid "Namespace Definition Source"
 msgstr "Namensraum Definitionsquelle"
@@ -4296,69 +4296,69 @@ msgstr ""
 "Aktion für diese Ressourcetype sichtbar."
 
 msgid "Network"
-msgstr "Netzwerk"
+msgstr "شبکه"
 
 #, python-format
 msgid "Network %s was successfully updated."
-msgstr "Das Netzwerk %s wurde erfolgreich aktualisiert."
+msgstr "Das شبکه %s wurde erfolgreich aktualisiert."
 
 msgid "Network Address"
-msgstr "Netzwerkadresse"
+msgstr "شبکهadresse"
 
 msgid "Network Address Source"
-msgstr "Netzwerkadressquelle"
+msgstr "شبکهadressquelle"
 
 msgid "Network Address and IP version are inconsistent."
-msgstr "Netzwerkadresse und IP-Version sind nicht konsistent."
+msgstr "شبکهadresse und IP-Version sind nicht konsistent."
 
 msgid "Network Agents"
-msgstr "Netzwerkagenten"
+msgstr "شبکهagenten"
 
 msgid "Network Details"
-msgstr "Netzwerkdetails"
+msgstr "شبکهdetails"
 
 msgid "Network ID"
-msgstr "Netzwerk-ID"
+msgstr "شبکه-ID"
 
 msgid "Network ID ="
-msgstr "Netzwerk-ID ="
+msgstr "شبکه-ID ="
 
 msgid "Network Mask"
-msgstr "Netzwerkmaske"
+msgstr "شبکهmaske"
 
 msgid "Network Name"
-msgstr "Netzwerkname"
+msgstr "شبکهname"
 
 msgid "Network QoS"
-msgstr "Netzwerk QoS"
+msgstr "شبکه QoS"
 
 msgid "Network QoS Policies"
-msgstr "Netzwerk QoS Richtlinien"
+msgstr "شبکه QoS Richtlinien"
 
 msgid "Network Quotas"
-msgstr "Netzwerk-Kontingente"
+msgstr "شبکه-Kontingente"
 
 msgid "Network Topology"
-msgstr "Netzwerktopologie"
+msgstr "شبکهtopologie"
 
 msgid "Network Type:"
-msgstr "Netzwerktyp:"
+msgstr "شبکهtyp:"
 
 msgid "Network address in CIDR format (e.g. 192.168.0.0/24)"
-msgstr "Netzwerkadresse im CIDR Format (z.B. 192.168.0.0/24)"
+msgstr "شبکهadresse im CIDR Format (z.B. 192.168.0.0/24)"
 
 msgid "Network address in CIDR format (e.g. 192.168.0.0/24, 2001:DB8::/48)"
-msgstr "Netzwerkadresse im CIDR Format (z.B. 192.168.0.0/24, 2001:DB8::/48)"
+msgstr "شبکهadresse im CIDR Format (z.B. 192.168.0.0/24, 2001:DB8::/48)"
 
 msgid "Network list can not be retrieved."
-msgstr "Netzwerkliste kann nicht abgerufen werden."
+msgstr "شبکهliste kann nicht abgerufen werden."
 
 msgctxt "Task status of an Instance"
 msgid "Networking"
-msgstr "Netzwerk"
+msgstr "شبکه"
 
 msgid "Networks"
-msgstr "Netzwerke"
+msgstr "شبکهe"
 
 msgid "Never"
 msgstr "Niemals"
@@ -4385,7 +4385,7 @@ msgid "New name cannot be empty."
 msgstr "Neuer Name darf nicht leer sein."
 
 msgid "New name conflicts with another group type."
-msgstr "Der neue Name kollidiert mit einem anderen Gruppentyp."
+msgstr "Der neue Name kollidiert mit einem anderen گروه."
 
 msgid "New name conflicts with another volume type."
 msgstr "Neuer Name kollidiert mit einem anderen Datenträgertypen."
@@ -4489,7 +4489,7 @@ msgid "No mappings available"
 msgstr "Keine Zuordnungen verfügbar"
 
 msgid "No networks available"
-msgstr "Keine Netzwerke verfügbar"
+msgstr "Keine شبکهe verfügbar"
 
 msgid "No new QoS spec available"
 msgstr "Keine neue QoS Spezifikation verfügbar"
@@ -4558,7 +4558,7 @@ msgid "No users."
 msgstr "Keine Benutzer."
 
 msgid "No valid group type"
-msgstr "Kein gültiger Gruppentyp"
+msgstr "Kein gültiger گروه"
 
 msgid "No volume type"
 msgstr "Kein Datenträgertyp"
@@ -4700,7 +4700,7 @@ msgid "OpenStack clouds.yaml File"
 msgstr "OpenStack clouds.yaml-Datei"
 
 msgid "Optionally, you may choose to create a new volume."
-msgstr "Optional können Sie wählen einen neuen Datenträger zu erstellen."
+msgstr "Optional können Sie wählen einen neuen Datenträger zu ساختن."
 
 #, python-format
 msgid ""
@@ -4742,7 +4742,7 @@ msgid ""
 "transfer create</tt> command."
 msgstr ""
 "Das Eigentumsrecht eines Datenträgers kann von einem Projekt zum anderen "
-"übertragen werden. Wenn ein Datenträgertransfer im Geber-Projekt erstellt "
+"übertragen werden. Wenn ein Datenträgertransfer im Geber-Projekt ساخته شد "
 "wurde, kann er vom Empfängerprojekt akzeptiert werden. Dies ist "
 "gleichbedeutend mit dem <tt>openstack volume transfer create</tt> Kommando."
 
@@ -4775,11 +4775,11 @@ msgid "Passwords do not match."
 msgstr "Die Passwörter stimmen nicht überein."
 
 msgid "Path"
-msgstr "Pfad"
+msgstr "مسیر"
 
 msgctxt "Action log of an instance"
 msgid "Pause"
-msgstr "Pausieren"
+msgstr "توقف"
 
 msgid "Pause Instance"
 msgid_plural "Pause Instances"
@@ -4805,16 +4805,16 @@ msgstr "Pausieren"
 
 msgctxt "Current status of an Image"
 msgid "Pending Delete"
-msgstr "Geplantes Löschen"
+msgstr "Geplantes حذف"
 
 msgid "Per Volume Size (GiB)"
 msgstr "Größe pro Datenträger (GiB)"
 
 msgid "Physical Network"
-msgstr "Physikalisches Netzwerk"
+msgstr "Physikalisches شبکه"
 
 msgid "Physical Network:"
-msgstr "Physisches Netzwerk:"
+msgstr "شبکه فیزیکی:"
 
 msgid ""
 "Please capture the application credential ID and secret in order to provide "
@@ -4834,11 +4834,11 @@ msgid "Pool"
 msgstr "Pool"
 
 msgid "Port"
-msgstr "Port"
+msgstr "پورت"
 
 #, python-format
 msgid "Port %s was successfully created."
-msgstr "Port %s wurde erfolgreich erstellt."
+msgstr "Port %s wurde erfolgreich ساخته شد."
 
 #, python-format
 msgid "Port %s was successfully updated."
@@ -4866,7 +4866,7 @@ msgid "Port to be associated"
 msgstr "Protokoll wird verknüpft"
 
 msgid "Ports"
-msgstr "Ports"
+msgstr "پورت‌ها"
 
 msgid "Power State"
 msgstr "Zustand"
@@ -4887,7 +4887,7 @@ msgid "Preparing Resize or Migrate"
 msgstr "Vorbereitung von Größenänderung oder Migration"
 
 msgid "Prevent the deletion of the image."
-msgstr "Löschen des Abbildes verhindern."
+msgstr "حذف des Abbildes verhindern."
 
 msgid "Primary Project"
 msgstr "Primäres Projekt"
@@ -4976,10 +4976,10 @@ msgid "Provider"
 msgstr "Anbieter"
 
 msgid "Provider Network"
-msgstr "Anbieternetzwerk"
+msgstr "Anbieterشبکه"
 
 msgid "Provider Network Type"
-msgstr "Anbieter Netzwerktyp"
+msgstr "Anbieter شبکهtyp"
 
 msgid "Public"
 msgstr "Öffentlich"
@@ -5044,7 +5044,7 @@ msgid "Quota Name"
 msgstr "Kontingentname"
 
 msgid "Quota exceeded for creating snapshots"
-msgstr "Kontingent zum erstellen von Schattenkopien überschritten"
+msgstr "Kontingent zum ساختن von Schattenkopien überschritten"
 
 msgid "Quota exceeded for resource router."
 msgstr "Kontingent für die Ressource Router überschritten."
@@ -5078,7 +5078,7 @@ msgid "RBAC Policy Details"
 msgstr "RBAC Richtliniendetails"
 
 msgid "RBAC Policy was successfully created."
-msgstr "RBAC Richtlinie wurde erfolgreich erstellt."
+msgstr "RBAC Richtlinie wurde erfolgreich ساخته شد."
 
 msgid "RX/TX Factor"
 msgstr "RX/TX Faktor"
@@ -5108,23 +5108,23 @@ msgstr "Grund: %(disabled_reason)s"
 
 msgctxt "Action log of an instance"
 msgid "Reboot"
-msgstr "Neustart"
+msgstr "ریبوت"
 
 msgctxt "Current status of an Instance"
 msgid "Reboot"
-msgstr "Neustart"
+msgstr "ریبوت"
 
 msgctxt "Task status of an Instance"
 msgid "Reboot Pending"
-msgstr "Neustart geplant"
+msgstr "ریبوت geplant"
 
 msgctxt "Task status of an Instance"
 msgid "Reboot Started"
-msgstr "Neustart durchgeführt"
+msgstr "ریبوت durchgeführt"
 
 msgctxt "Task status of an Instance"
 msgid "Rebooting"
-msgstr "Neustartend"
+msgstr "ریبوتend"
 
 msgctxt "Action log of an instance"
 msgid "Rebuild"
@@ -5157,12 +5157,12 @@ msgid "Rebuilding instance %s."
 msgstr "Instanz erneuern %s."
 
 msgid "Recreate EC2 Credentials"
-msgstr "EC2-Zugangsdaten neu erzeugen"
+msgstr "EC2-Zugangsdaten neu ساختن"
 
 #, python-format
 msgid "Regenerate and download Key Pair &quot;%(keypair_name)s&quot;"
 msgstr ""
-"Neu erzeugen und herunterladen des Schlüsselpaares &quot;"
+"Neu ساختن und herunterladen des Schlüsselpaares &quot;"
 "%(keypair_name)s&quot;"
 
 msgid "Region"
@@ -5267,7 +5267,7 @@ msgid "Requested snapshot would exceed the allowed quota."
 msgstr ""
 "Die angeforderte Schattenkopie würde das erlaubte Kontingent überschreiten."
 
-msgid "Required Settings"
+msgid "تنظیمات الزامی"
 msgstr "Erforderliche Einstellungen"
 
 msgctxt "Action log of an instance"
@@ -5350,24 +5350,24 @@ msgstr ""
 "Speicher gespeichert wurden."
 
 msgid "Restore Backup"
-msgstr "Aus Sicherungskopie wiederherstellen"
+msgstr "Aus Sicherungskopie wiederhساختن"
 
 msgid "Restore Backup to Volume"
-msgstr "Sicherungskopie auf Datenträger wiederherstellen"
+msgstr "Sicherungskopie auf Datenträger wiederhساختن"
 
 msgid "Restore Backup:"
-msgstr "Sicherung wiederherstellen:"
+msgstr "Sicherung wiederhساختن:"
 
 msgid "Restore Volume Backup"
-msgstr "Datenträger-Sicherungskopie wiederherstellen"
+msgstr "Datenträger-Sicherungskopie wiederhساختن"
 
 msgctxt "Current status of a Volume Backup"
 msgid "Restoring"
-msgstr "Wiederherstellend"
+msgstr "Wiederhساختنd"
 
 msgctxt "Task status of an Instance"
 msgid "Restoring"
-msgstr "Wiederherstellend"
+msgstr "Wiederhساختنd"
 
 msgctxt "Current status of a Volume"
 msgid "Restoring Backup"
@@ -5427,7 +5427,7 @@ msgid "Role assignments"
 msgstr "Rollenzuordnungen"
 
 msgid "Role created successfully."
-msgstr "Rolle erfolgreich erstellt."
+msgstr "Rolle erfolgreich ساخته شد."
 
 msgid "Role updated successfully."
 msgstr "Rolle erfolgreich aktualisiert."
@@ -5528,7 +5528,7 @@ msgstr "Zusätzliche Spezifikation \"%s\" gespeichert."
 
 #, python-format
 msgid "Saved group type spec \"%s\"."
-msgstr "Gruppentypspezifikation gespeichert \"%s\"."
+msgstr "گروهspezifikation gespeichert \"%s\"."
 
 #, python-format
 msgid "Saved spec \"%s\"."
@@ -5627,7 +5627,7 @@ msgid "Select Mapping"
 msgstr "Zuordnung auswählen"
 
 msgid "Select Network"
-msgstr "Netzwerk auswählen"
+msgstr "شبکه auswählen"
 
 msgid "Select Port"
 msgstr "Port auswählen"
@@ -5654,7 +5654,7 @@ msgid "Select a key pair"
 msgstr "Wählen Sie ein Schlüsselpaar"
 
 msgid "Select a network"
-msgstr "Netzwerk auswählen"
+msgstr "شبکه auswählen"
 
 msgid "Select a new QoS spec"
 msgstr "Wählen Sie eine neue QoS Spezifikation"
@@ -5714,10 +5714,10 @@ msgid "Select format"
 msgstr "Format auswählen"
 
 msgid "Select group type"
-msgstr "Gruppentyp auswählen"
+msgstr "گروه auswählen"
 
 msgid "Select network"
-msgstr "Netzwerk auswählen"
+msgstr "شبکه auswählen"
 
 msgid "Select snapshot to backup (Optional)"
 msgstr "Wählen Sie eine Schattenkopie zum Sichern (optional)"
@@ -5733,10 +5733,10 @@ msgid "Select the floating IP to be disassociated from the instance."
 msgstr "Wählen Sie die zu trennende Floating IP der Instanz aus."
 
 msgid "Select the image to rebuild your instance."
-msgstr "Wählen Sie ein Abbild, um Ihre Instanz neu zu erstellen."
+msgstr "Wählen Sie ein Abbild, um Ihre Instanz neu zu ساختن."
 
 msgid "Select the network for interface attaching."
-msgstr "Wählen Sie das Netzwerk zum Hinzufügen der Schnittstelle aus."
+msgstr "Wählen Sie das شبکه zum Hinzufügen der Schnittstelle aus."
 
 msgid "Select the port to detach."
 msgstr "Wählen Sie den Port zum Abhängen aus"
@@ -5812,7 +5812,7 @@ msgid "Services Up"
 msgstr "Laufende Dienste"
 
 msgid "Set Domain Context"
-msgstr "Domänen-Kontext setzen"
+msgstr "دامنهn-Kontext setzen"
 
 msgid "Set Gateway"
 msgstr "Gateway setzen"
@@ -5830,19 +5830,19 @@ msgstr ""
 "einem Identitäts-API-Objekt."
 
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr "تنظیمات"
 
-msgid "Settings saved."
+msgid "تنظیمات ذخیره شد."
 msgstr "Einstellungen gespeichert."
 
-msgid "Shared"
+msgid "مشترک"
 msgstr "Gemeinsam verwendet"
 
 msgid "Shared ="
 msgstr "Geteilt ="
 
 msgid "Shared Network"
-msgstr "Geteiltes Netzwerk"
+msgstr "Geteiltes شبکه"
 
 msgid "Shared QoS Policy"
 msgstr "Geteilte QoS-Richtlinie"
@@ -5916,10 +5916,10 @@ msgid "Shutoff"
 msgstr "Abschaltung"
 
 msgid "Sign Out"
-msgstr "Abmelden"
+msgstr "خروج"
 
 msgid "Size"
-msgstr "Größe"
+msgstr "اندازه"
 
 msgid "Size (GiB)"
 msgstr "Größe (GiB)"
@@ -5934,7 +5934,7 @@ msgid "Small"
 msgstr "Klein"
 
 msgid "Snapshot"
-msgstr "Schattenkopie"
+msgstr "اسنپ‌شات"
 
 msgctxt "Type of an image"
 msgid "Snapshot"
@@ -5948,7 +5948,7 @@ msgid "Snapshot Limits"
 msgstr "Einschränkungen für Schattenkopie"
 
 msgid "Snapshot Name"
-msgstr "Schattenkopiename"
+msgstr "نام اسنپ‌شات"
 
 msgid "Snapshot Volume Types"
 msgstr "Schattenkopie Datenträgertypen"
@@ -5960,7 +5960,7 @@ msgid "Snapshot source must be specified"
 msgstr "Schattenkopiequelle muss angegeben werden"
 
 msgid "Snapshots"
-msgstr "Schattenkopien"
+msgstr "اسنپ‌شات‌ها"
 
 msgid "Snapshots can only be created for Groups that contain volumes."
 msgstr ""
@@ -5981,8 +5981,8 @@ msgstr "Sanfte Löschung"
 
 msgid "Soft Reboot Instance"
 msgid_plural "Soft Reboot Instances"
-msgstr[0] "Sanfter Neustart Instanz"
-msgstr[1] "Sanfter Neustart Instanzen"
+msgstr[0] "Sanfter ریبوت Instanz"
+msgstr[1] "Sanfter ریبوت Instanzen"
 
 msgid "Soft Rebooted Instance"
 msgid_plural "Soft Rebooted Instances"
@@ -5993,7 +5993,7 @@ msgid ""
 "Some flavors not meeting minimum boot source requirements have been disabled."
 msgstr ""
 "Einige Varianten erfüllen nicht die Mindestanforderungen der Boot-Quelle und "
-"wurden daher inaktiviert."
+"wurden daher پایینiert."
 
 msgid "Something went wrong!"
 msgstr "Etwas ging schief!"
@@ -6018,7 +6018,7 @@ msgstr ""
 
 msgid "Specifies that the newly created volume should be marked as bootable"
 msgstr ""
-"Gibt an, daß der neu erstellte Datenträger als bootfähig markiert werden soll"
+"Gibt an, daß der neu ساخته شدe Datenträger als bootfähig markiert werden soll"
 
 msgid "Specifies that the volume can be used to launch an instance"
 msgstr ""
@@ -6028,14 +6028,14 @@ msgid ""
 "Specify \"Address pool\" or select \"Enter Network Address manually\" and "
 "specify \"Network Address\"."
 msgstr ""
-"Wählen Sie \"Adressenpool\" oder \"Netzwerkadresse manuell eingeben\" und "
-"geben Sie die \"Netzwerkadresse\" an."
+"Wählen Sie \"Adressenpool\" oder \"شبکهadresse manuell eingeben\" und "
+"geben Sie die \"شبکهadresse\" an."
 
 msgid ""
 "Specify \"Network Address\" or clear \"Create Subnet\" checkbox in previous "
 "step."
 msgstr ""
-"Geben Sie eine Netzwerkadresse an oder entfernen Sie die Markierung "
+"Geben Sie eine شبکهadresse an oder entfernen Sie die Markierung "
 "\"Erzeuge Subnetz\" im vorherigen Schritt."
 
 msgid "Specify IP address of gateway or check \"Disable Gateway\" checkbox."
@@ -6060,7 +6060,7 @@ msgid "Specify an image to upload to the Image Service."
 msgstr "Wählen Sie ein Abbild zum Hochladen aus."
 
 msgid "Specify network address"
-msgstr "\"Netzwerkadresse\" angeben"
+msgstr "\"شبکهadresse\" angeben"
 
 msgid "Specify the MAC address for the new port"
 msgstr "Geben Sie die MAC-Adresse für den neuen Port an"
@@ -6076,22 +6076,22 @@ msgstr ""
 "Ohne Angabe wird der aktuelle Ort für Abbilddaten verwendet."
 
 msgid "Specs"
-msgstr "Spezifikationen"
+msgstr "مشخصات"
 
 msgid "Start"
 msgstr "Starten"
 
 msgctxt "Action log of an instance"
 msgid "Start"
-msgstr "Starten"
+msgstr "شروع"
 
 msgid "Start Instance"
 msgid_plural "Start Instances"
-msgstr[0] "Instanz starten"
-msgstr[1] "Instanzen starten"
+msgstr[0] "راه‌اندازی اینستنس"
+msgstr[1] "راه‌اندازی اینستنس‌ها"
 
 msgid "Start Time"
-msgstr "Startzeit"
+msgstr "زمان شروع"
 
 #, python-format
 msgid "Start address is larger than end address (value=%s)"
@@ -6115,16 +6115,16 @@ msgid "Starting to migrate host: %(current)s"
 msgstr "Beginne Migration für Host %(current)s"
 
 msgid "State"
-msgstr "Zustand"
+msgstr "وضعیت"
 
 msgid "Static Routes"
-msgstr "Statische Routen"
+msgstr "روت‌های ثابت"
 
 msgid "Static route added"
 msgstr "Statische Route hinzugefügt"
 
 msgid "Status"
-msgstr "Status"
+msgstr "وضعیت"
 
 msgid "Status ="
 msgstr "Status ="
@@ -6178,19 +6178,19 @@ msgstr "Erfolgreich erzeugte QoS Spezifikation: %s"
 
 #, python-format
 msgid "Successfully created encryption for volume type: %s"
-msgstr "Verschlüsselung erfolgreich erstellt für Datenträgertyp: %s"
+msgstr "Verschlüsselung erfolgreich ساخته شد für Datenträgertyp: %s"
 
 #, python-format
 msgid "Successfully created group type: %s"
-msgstr "Gruppentyp erfolgreich erstellt: %s"
+msgstr "گروه erfolgreich ساخته شد: %s"
 
 #, python-format
 msgid "Successfully created security group: %s"
-msgstr "Sicherheitsgruppe %s erfolgreich erstellt."
+msgstr "Sicherheitsgruppe %s erfolgreich ساخته شد."
 
 #, python-format
 msgid "Successfully created volume type: %s"
-msgstr "Datenträger vom Typ %s erfolgreich erstellt"
+msgstr "Datenträger vom Typ %s erfolgreich ساخته شد"
 
 msgid "Successfully deleted volume transfer"
 msgstr "Datenträgertransfer erfolgreich gelöscht"
@@ -6264,7 +6264,7 @@ msgid "Successfully updated encryption for volume type: %s"
 msgstr "Erfolgreich Verschlüsselung aktualisiert für Datenträgertyp: %s"
 
 msgid "Successfully updated group type."
-msgstr "Gruppentyp erfolgreich aktualisiert."
+msgstr "گروه erfolgreich aktualisiert."
 
 #, python-format
 msgid "Successfully updated security group: %s"
@@ -6444,7 +6444,7 @@ msgid ""
 "202.2.3.0/24)."
 msgstr ""
 "Die IP-Adresse der neuen Floating IP (z.B. 202.2.3.4). Sie müssen eine "
-"eindeutige Adresse aus dem öffentlichen Netzwerk CIDR (z.B. 202.2.3.0/24) "
+"eindeutige Adresse aus dem öffentlichen شبکه CIDR (z.B. 202.2.3.0/24) "
 "angeben."
 
 msgid ""
@@ -6474,7 +6474,7 @@ msgstr ""
 "Empfänger der Übertragung."
 
 msgid "The VNIC type that is bound to the network port"
-msgstr "Der mit dem Netzwerkport verbundene VNIC Typ"
+msgstr "Der mit dem شبکهport verbundene VNIC Typ"
 
 msgid "The admin password is incorrect."
 msgstr "Das Administratorpasswort ist nicht richtig"
@@ -6487,12 +6487,12 @@ msgstr ""
 "Das Geheimwort der Applikations-Zugangsdaten ist nach schließen der Seite "
 "nicht mehr verfügbar, Sie müssen es jetzt erfassen oder herunterladen. Wenn "
 "Sie das Geheimwort verlieren, müssen Sie neue Applikations-Zugangsdaten "
-"erstellen."
+"ساختن."
 
 msgid ""
 "The application credential will be created for the currently selected "
 "project."
-msgstr "Applikations-Zugangsdaten werden für das ausgewählte Projekt erstellt."
+msgstr "Applikations-Zugangsdaten werden für das ausgewählte Projekt ساخته شد."
 
 msgid "The container cannot be deleted since it is not empty."
 msgstr "Der Container kann nicht gelöscht werden, denn er ist nicht leer."
@@ -6563,7 +6563,7 @@ msgid ""
 "The name of the physical network over which the virtual network is "
 "implemented."
 msgstr ""
-"Der Name des physikalischen Netzwerkes, auf dem das virtuelle Netzwerk "
+"Der Name des physikalischen شبکهes, auf dem das virtuelle شبکه "
 "implementiert wurde."
 
 msgid ""
@@ -6571,8 +6571,8 @@ msgid ""
 "implemented. Specify one of the physical networks defined in your neutron "
 "deployment."
 msgstr ""
-"Der Name des physikalischen Netzwerkes, auf dem das virtuelle Netzwerk "
-"implementiert wurde. Geben Sie eins der physischen Netzwerke aus der "
+"Der Name des physikalischen شبکهes, auf dem das virtuelle شبکه "
+"implementiert wurde. Geben Sie eins der physischen شبکهe aus der "
 "Neutroninstallation an."
 
 msgid "The new availability zone can't be empty"
@@ -6590,7 +6590,7 @@ msgstr "Das Passwort entspricht nicht den Anforderungen: %s"
 
 msgid "The physical mechanism by which the virtual network is implemented."
 msgstr ""
-"Der physikalische Mechanismus, durch den das virtuelle Netzwerk "
+"Der physikalische Mechanismus, durch den das virtuelle شبکه "
 "implementiert wurde."
 
 msgid ""
@@ -6645,7 +6645,7 @@ msgstr ""
 
 #, python-format
 msgid "The subnet in the Network Address is too small (/%s)."
-msgstr "Das Subnetz der Netzwerkadresse ist zu klein (/%s)."
+msgstr "Das Subnetz der شبکهadresse ist zu klein (/%s)."
 
 #, python-format
 msgid "The volume size cannot be less than the image minimum disk size (%sGiB)"
@@ -6680,7 +6680,7 @@ msgstr "Themen:"
 
 msgid "There are no networks, routers, or connected instances to display."
 msgstr ""
-"Es gibt keine Netzwerke, Router oder verbundene Instanzen zum Anzeigen."
+"Es gibt keine شبکهe, Router oder verbundene Instanzen zum Anzeigen."
 
 msgid ""
 "There is not enough capacity for this flavor in the selected availability "
@@ -6753,7 +6753,7 @@ msgid ""
 "This volume is currently attached to an instance. In some cases, creating a "
 "snapshot from an attached volume can result in a corrupted snapshot."
 msgstr ""
-"Dieser Datenträger ist gegenwärtig einer Instanz zugewiesen. Das Erzeugen "
+"Dieser Datenträger ist gegenwärtig einer Instanz zugewiesen. Das ساختن "
 "einer Schattenkopie von einem zugewiesenen Datenträger kann zu einer "
 "beschädigten Schattenkopie führen."
 
@@ -6768,7 +6768,7 @@ msgid ""
 msgstr ""
 "Dies wird die Instanz herunterfahren und die Root-Platte an einen temporären "
 "Server mounten. Sie können sich dann mit dem Server verbinden, die "
-"Systemkonfiguration reparieren oder Ihre Daten wiederherstellen."
+"Systemkonfiguration reparieren oder Ihre Daten wiederhساختن."
 
 msgid "Time since update"
 msgstr "Zeit seit Update"
@@ -6795,7 +6795,7 @@ msgstr ""
 "Mit dem Zurück-Knopf des Browsers können Sie den Vollbildmodus verlassen."
 
 msgid "To make group type private, uncheck this field."
-msgstr "Entfernen Sie die Markierung, um den Gruppentyp auf Privat zu setzen."
+msgstr "Entfernen Sie die Markierung, um den گروه auf Privat zu setzen."
 
 msgid "To make volume type private, uncheck this field."
 msgstr ""
@@ -6816,13 +6816,13 @@ msgid "Toggle Labels"
 msgstr "Bezeichnung umschalten"
 
 msgid "Toggle Network Collapse"
-msgstr "Netzwerk einklappen umschalten"
+msgstr "شبکه einklappen umschalten"
 
 msgid "Toggle navigation"
 msgstr "Navigation umschalten"
 
 msgid "Topology"
-msgstr "Topologie"
+msgstr "توپولوژی"
 
 msgid "Total Active RAM (MB):"
 msgstr "Aktives RAM gesamt (MB):"
@@ -6843,7 +6843,7 @@ msgid "Total Memory Usage (Hours):"
 msgstr "Gesamte Speicherverwendung (Stunden):"
 
 msgid "Total RAM"
-msgstr "RAM gesamt"
+msgstr "همهٔ رم"
 
 msgid "Total Size of Volumes and Snapshots (GB)"
 msgstr "Gesamtgröße von Datenträgern und Schattenkopien (GB)"
@@ -6903,10 +6903,10 @@ msgstr "AKTIV"
 
 msgctxt "Admin state of a Router"
 msgid "UP"
-msgstr "AKTIV"
+msgstr "بالا"
 
 msgid "UTC"
-msgstr "UTC"
+msgstr "یوتی‌سی"
 
 #, python-format
 msgid "UTC %(hour)s:%(min)s"
@@ -6950,7 +6950,7 @@ msgstr ""
 
 msgid "Unable to check if network availability zone extension is supported"
 msgstr ""
-"Unterstützung der Erweiterung für die Netzwerk-Verfügbarkeitszone kann nicht "
+"Unterstützung der Erweiterung für die شبکه-Verfügbarkeitszone kann nicht "
 "überprüft werden"
 
 msgid "Unable to check if router availability zone extension is supported"
@@ -6963,7 +6963,7 @@ msgid ""
 "Unable to clear gateway for router %(name)s. Most possible reason is because "
 "the gateway is required by one or more floating IPs"
 msgstr ""
-"Fehler beim Löschen des Gateways für Router %(name)s. Wahrscheinlich wird "
+"Fehler beim حذف des Gateways für Router %(name)s. Wahrscheinlich wird "
 "das Gateway noch von floating IPs verwendet."
 
 msgid "Unable to clone empty group."
@@ -6979,21 +6979,21 @@ msgid "Unable to create QoS Spec."
 msgstr "QoS Spezifikationen können nicht erzeugt werden."
 
 msgid "Unable to create application credential."
-msgstr "Applikations-Zugangsdaten können nicht erstellt werden."
+msgstr "Applikations-Zugangsdaten können nicht ساخته شد werden."
 
 #, python-format
 msgid "Unable to create domain \"%s\"."
-msgstr "Domäne \"%s\" kann nicht erstellt werden."
+msgstr "دامنه \"%s\" kann nicht ساخته شد werden."
 
 msgid "Unable to create encrypted volume type."
-msgstr "Verschlüsselter Datenträgertyp kann nicht erstellt werden."
+msgstr "Verschlüsselter Datenträgertyp kann nicht ساخته شد werden."
 
 #, python-format
 msgid "Unable to create flavor \"%s\"."
-msgstr "Variante \"%s\" kann nicht erstellt werden."
+msgstr "Variante \"%s\" kann nicht ساخته شد werden."
 
 msgid "Unable to create flavor."
-msgstr "Variante kann nicht erstellt werden."
+msgstr "Variante kann nicht ساخته شد werden."
 
 #, python-format
 msgid "Unable to create group \"%s\" from snapshot."
@@ -7001,85 +7001,85 @@ msgstr "Gruppe \"%s\" kann nicht aus Schattenkopie hergestellt werden."
 
 msgid "Unable to create group due to exceeding volume quota limit."
 msgstr ""
-"Gruppe kann nicht erstellt werden, da die Begrenzung des "
+"Gruppe kann nicht ساخته شد werden, da die Begrenzung des "
 "Datenträgerkontingents überschritten wird."
 
 msgid "Unable to create group snapshot."
-msgstr "Gruppen-Schattenkopie kann nicht erstellt werden."
+msgstr "Gruppen-Schattenkopie kann nicht ساخته شد werden."
 
 msgid "Unable to create group type spec."
-msgstr "Gruppentypspezifikation kann nicht erstellt werden."
+msgstr "گروهspezifikation kann nicht ساخته شد werden."
 
 msgid "Unable to create group type."
-msgstr "Gruppentyp kann nicht erstellt werden."
+msgstr "گروه kann nicht ساخته شد werden."
 
 msgid "Unable to create group."
-msgstr "Gruppe kann nicht erstellt werden."
+msgstr "Gruppe kann nicht ساخته شد werden."
 
 #, python-format
 msgid "Unable to create host aggregate \"%s\"."
-msgstr "Hostaggregat \"%s\" kann nicht erstellt werden."
+msgstr "Hostaggregat \"%s\" kann nicht ساخته شد werden."
 
 msgid "Unable to create host aggregate."
-msgstr "Hostaggregat kann nicht erstellt werden."
+msgstr "Hostaggregat kann nicht ساخته شد werden."
 
 msgid "Unable to create identity provider protocol."
-msgstr "Erstellen des Identitätsanbieterprotokolls nicht möglich."
+msgstr "ساختن des Identitätsanbieterprotokolls nicht möglich."
 
 msgid "Unable to create mapping."
-msgstr "Zuordnung kann nicht erstellt werden."
+msgstr "Zuordnung kann nicht ساخته شد werden."
 
 msgid "Unable to create mapping. Rules has malformed JSON data."
 msgstr ""
-"Zuordnung kann nicht erstellt werden. Die Regel enthält falsch formatierte "
+"Zuordnung kann nicht ساخته شد werden. Die Regel enthält falsch formatierte "
 "JSON-Daten."
 
 #, python-format
 msgid "Unable to create network \"%s\"."
-msgstr "Netzwerk \"%s\" konnte nicht angelegt werden."
+msgstr "شبکه \"%s\" konnte nicht angelegt werden."
 
 msgid "Unable to create new image"
-msgstr "Neues Abbild kann nicht erstellt werden"
+msgstr "Neues Abbild kann nicht ساخته شد werden"
 
 msgid "Unable to create new image: Image name too long."
-msgstr "Neues Abbild kann nicht erstellt werden: Abbildname zu lang."
+msgstr "Neues Abbild kann nicht ساخته شد werden: Abbildname zu lang."
 
 #, python-format
 msgid "Unable to create new image: Invalid disk format %s for image."
 msgstr ""
-"Neues Abbild kann nicht erstellt werden: ungültiges Festplattenformat %s für "
+"Neues Abbild kann nicht ساخته شد werden: ungültiges Festplattenformat %s für "
 "das Abbild."
 
 msgid "Unable to create new image: URL scheme not supported."
 msgstr ""
-"Neues Abbild kann nicht erstellt werden: URL-Schema wird nicht unterstützt."
+"Neues Abbild kann nicht ساخته شد werden: URL-Schema wird nicht unterstützt."
 
 #, python-format
 msgid "Unable to create new namespace. %s"
-msgstr "Neuer Namensraum kann nicht erstellt werden. %s"
+msgstr "Neuer Namensraum kann nicht ساخته شد werden. %s"
 
 #, python-format
 msgid "Unable to create project \"%s\"."
-msgstr "Projekt \"%s\" kann nicht erstellt werden."
+msgstr "Projekt \"%s\" kann nicht ساخته شد werden."
 
 msgid "Unable to create role."
-msgstr "Rolle kann nicht erstellt werden."
+msgstr "Rolle kann nicht ساخته شد werden."
 
 #, python-format
 msgid "Unable to create security group: %s"
-msgstr "Sicherheitsgruppe kann nicht erstellt werden: %s "
+msgstr "Sicherheitsgruppe kann nicht ساخته شد werden: %s "
 
 msgid "Unable to create snapshot."
-msgstr "Schattenkopie kann nicht erstellt werden."
+msgstr "Schattenkopie kann nicht ساخته شد werden."
 
 msgid "Unable to create snapshot. group must contain volumes."
 msgstr ""
-"Schattenkopie kann nicht erstellt werden. Die Gruppe muss Datenträger "
+"Schattenkopie kann nicht ساخته شد werden. Die Gruppe muss Datenträger "
 "enthalten."
 
 msgid "Unable to create snapshots due to exceeding snapshot quota limit."
 msgstr ""
-"Schattenkopien können nicht erstellt werden, da das Kontingent für "
+"Schattenkopien können nicht ساخته شد werden, da das Kontingent für "
 "Schattenkopien überschritten wird."
 
 msgid "Unable to create spec."
@@ -7090,7 +7090,7 @@ msgid "Unable to create subnet \"%s\"."
 msgstr "Subnetz \"%s\" kann nicht erzeugt werden."
 
 msgid "Unable to create user."
-msgstr "Benutzer kann nicht erstellt werden."
+msgstr "Benutzer kann nicht ساخته شد werden."
 
 msgid "Unable to create volume backup."
 msgstr "Datenträger-Sicherung kann nicht erzeugt werden."
@@ -7099,24 +7099,24 @@ msgid "Unable to create volume snapshot."
 msgstr "Schattenkopie kann nicht erzeugt werden."
 
 msgid "Unable to create volume transfer."
-msgstr "Datenträgertransfer kann nicht erstellt werden."
+msgstr "Datenträgertransfer kann nicht ساخته شد werden."
 
 msgid "Unable to create volume type extra spec."
 msgstr "Extra Spezifikation für Datenträgertyp kann nicht erzeugt werden."
 
 msgid "Unable to create volume type."
-msgstr "Datenträgertyp konnte nicht erstellt werden."
+msgstr "Datenträgertyp konnte nicht ساخته شد werden."
 
 msgid "Unable to create volume."
-msgstr "Datenträger konnte nicht erstellt werden."
+msgstr "Datenträger konnte nicht ساخته شد werden."
 
 #, python-format
 msgid ""
 "Unable to delete network %(name)s. Most possible reason is because one or "
 "more ports still exist on the requested network."
 msgstr ""
-"Fehler beim Löschen des Netzwerks %(name)s. Wahrscheinlich existieren noch "
-"Ports im angefragten Netzwerk."
+"Fehler beim حذف des شبکهs %(name)s. Wahrscheinlich existieren noch "
+"Ports im angefragten شبکه."
 
 #, python-format
 msgid "Unable to delete router %(name)s: %(exc)s"
@@ -7172,7 +7172,7 @@ msgid "Unable to display the users of this project."
 msgstr "Benutzer dieses Projekts können nicht angezeigt werden."
 
 msgid "Unable to edit group type spec."
-msgstr "Gruppentypspezifikation kann nicht bearbeitet werden."
+msgstr "گروهspezifikation kann nicht bearbeitet werden."
 
 msgid "Unable to edit spec."
 msgstr "Die Spezifikation kann nicht bearbeitet werden."
@@ -7235,10 +7235,10 @@ msgid "Unable to get log for instance \"%s\"."
 msgstr "Protokoll für die Instanz \"%s\" konnte nicht abgerufen werden."
 
 msgid "Unable to get network agents info."
-msgstr "Netzwerk-Agenteninfo kann nicht abgerufen werden."
+msgstr "شبکه-Agenteninfo kann nicht abgerufen werden."
 
 msgid "Unable to get network agents list."
-msgstr "Netzwerk-Agentenliste kann nicht abgerufen werden."
+msgstr "شبکه-Agentenliste kann nicht abgerufen werden."
 
 msgid "Unable to get neutron quota info."
 msgstr "Neutron-Kontingentinformationen können nicht abgerufen werden."
@@ -7272,7 +7272,7 @@ msgid "Unable to initialize subnetpools"
 msgstr "Initialisierung des Subnetzpools nicht möglich."
 
 msgid "Unable to list dhcp agents hosting network."
-msgstr "Anzeige des Bereitstellungsnetzwerks des DHCP Agenten nicht möglich."
+msgstr "Anzeige des Bereitstellungsشبکهs des DHCP Agenten nicht möglich."
 
 msgid "Unable to load console. Please reload page to try again."
 msgstr ""
@@ -7303,7 +7303,7 @@ msgstr "Datenträger kann nicht verwaltet werden."
 
 #, python-format
 msgid "Unable to modify domain \"%s\"."
-msgstr "Domäne \"%s\" kann nicht geändert werden."
+msgstr "دامنه \"%s\" kann nicht geändert werden."
 
 #, python-format
 msgid "Unable to modify flavor access of \"%s\"."
@@ -7329,12 +7329,12 @@ msgstr "Instanz konnte nicht erneuert werden."
 
 msgid "Unable to recreate ec2 credentials. Failed to create ec2 credentials."
 msgstr ""
-"EC2-Zugangsdaten können nicht neu erzeugt werden. Erzeugen der EC2-"
+"EC2-Zugangsdaten können nicht neu erzeugt werden. ساختن der EC2-"
 "Zugangsdaten fehlgeschlagen."
 
 msgid "Unable to recreate ec2 credentials. Failed to delete ec2 credentials."
 msgstr ""
-"EC2-Zugangsdaten können nicht neu erzeugt werden. Löschen der EC2-"
+"EC2-Zugangsdaten können nicht neu erzeugt werden. حذف der EC2-"
 "Zugangsdaten fehlgeschlagen."
 
 msgid "Unable to register identity provider."
@@ -7378,7 +7378,7 @@ msgstr "MAC Lernstatus kann nicht abgerufen werden"
 #, python-format
 msgid "Unable to retrieve Network information for instance \"%s\"."
 msgstr ""
-"Netzwerkinformationen für die Instanz \"%s\" können nicht abgerufen werden."
+"شبکهinformationen für die Instanz \"%s\" können nicht abgerufen werden."
 
 msgid "Unable to retrieve Neutron quota information."
 msgstr "Neutron-Kontingentinformationen können nicht abgerufen werden."
@@ -7408,14 +7408,14 @@ msgid "Unable to retrieve RBAC policies."
 msgstr "Die RBAC Richtlinien können nicht abgerufen werden."
 
 msgid "Unable to retrieve a list of external networks."
-msgstr "Liste externer Netzwerke kann nicht abgerufen werden."
+msgstr "Liste externer شبکهe kann nicht abgerufen werden."
 
 msgid "Unable to retrieve agent list."
 msgstr "Agentenliste kann nicht abgerufen werden."
 
 #, python-format
 msgid "Unable to retrieve an external network \"%s\"."
-msgstr "Externes Netzwerk kann nicht abgerufen werden \"%s\"."
+msgstr "Externes شبکه kann nicht abgerufen werden \"%s\"."
 
 msgid "Unable to retrieve application credential details."
 msgstr "Applikations-Zugangsdaten-Details können nicht heruntergeladen werden."
@@ -7466,7 +7466,7 @@ msgstr "Details für das Schlüsselpaar \"%s\" können nicht abgerufen werden."
 
 #, python-format
 msgid "Unable to retrieve details for network \"%s\"."
-msgstr "Details zu Netzwerk \"%s\" können nicht abgerufen werden."
+msgstr "Details zu شبکه \"%s\" können nicht abgerufen werden."
 
 #, python-format
 msgid "Unable to retrieve details for rbac_policy \"%s\"."
@@ -7477,13 +7477,13 @@ msgid "Unable to retrieve details for router \"%s\"."
 msgstr "Details zum Router \"%s\" können nicht abgerufen werden."
 
 msgid "Unable to retrieve domain details."
-msgstr "Domänen-Details können nicht abgerufen werden."
+msgstr "دامنهn-Details können nicht abgerufen werden."
 
 msgid "Unable to retrieve domain information."
-msgstr "Domäneninformationen können nicht abgerufen werden."
+msgstr "دامنهninformationen können nicht abgerufen werden."
 
 msgid "Unable to retrieve domain list."
-msgstr "Domänen-Liste kann nicht abgerufen werden."
+msgstr "دامنهn-Liste kann nicht abgerufen werden."
 
 msgid "Unable to retrieve encryption type."
 msgstr "Verschlüsselungstyp kann nicht abgerufen werden."
@@ -7555,26 +7555,26 @@ msgid "Unable to retrieve group snapshots."
 msgstr "Gruppen-Schattenkopie können nicht abgerufen werden."
 
 msgid "Unable to retrieve group type details."
-msgstr "Gruppentyp Details können nicht abgerufen werden."
+msgstr "گروه Details können nicht abgerufen werden."
 
 #, python-format
 msgid "Unable to retrieve group type for: \"%s\""
-msgstr "Gruppentyp für \"%s\" kann nicht abrufen werden."
+msgstr "گروه für \"%s\" kann nicht abrufen werden."
 
 msgid "Unable to retrieve group type name."
-msgstr "Name des Gruppentyps kann nicht abgerufen werden."
+msgstr "Name des گروهs kann nicht abgerufen werden."
 
 msgid "Unable to retrieve group type spec details."
-msgstr "Gruppentypspezifikation Details können nicht abgerufen werden."
+msgstr "گروهspezifikation Details können nicht abgerufen werden."
 
 msgid "Unable to retrieve group type spec list."
-msgstr "Gruppentypspezifikationsliste kann nicht abgerufen werden."
+msgstr "گروهspezifikationsliste kann nicht abgerufen werden."
 
 msgid "Unable to retrieve group type."
-msgstr "Gruppentyp kann nicht abgerufen werden."
+msgstr "گروه kann nicht abgerufen werden."
 
 msgid "Unable to retrieve group types."
-msgstr "Gruppentypen können nicht abgerufen werden."
+msgstr "گروهen können nicht abgerufen werden."
 
 msgid "Unable to retrieve group users."
 msgstr "Gruppenbenutzer können nicht abgerufen werden."
@@ -7622,11 +7622,11 @@ msgid "Unable to retrieve images."
 msgstr "Abbilder können nicht abgerufen werden."
 
 msgid "Unable to retrieve information about the networks' projects."
-msgstr "Informationen zu den Netzwerk-Projekten können nicht abgerufen werden."
+msgstr "Informationen zu den شبکه-Projekten können nicht abgerufen werden."
 
 msgid "Unable to retrieve information about the policies' networks."
 msgstr ""
-"Informationen zu den Richtlinien-Netzwerken können nicht abgerufen werden."
+"Informationen zu den Richtlinien-شبکهen können nicht abgerufen werden."
 
 msgid "Unable to retrieve information about the policies' projects."
 msgstr ""
@@ -7683,10 +7683,10 @@ msgid "Unable to retrieve namespace details."
 msgstr "Einzelheiten zum Namensraum können nicht abgerufen werden."
 
 msgid "Unable to retrieve network details."
-msgstr "Netzwerkdetails können nicht abgerufen werden."
+msgstr "شبکهdetails können nicht abgerufen werden."
 
 msgid "Unable to retrieve network."
-msgstr "Netzwerk kann nicht abgerufen werden."
+msgstr "شبکه kann nicht abgerufen werden."
 
 msgid "Unable to retrieve pools information."
 msgstr "Abruf der Pool-Informationen nicht möglich."
@@ -7707,7 +7707,7 @@ msgid "Unable to retrieve project details."
 msgstr "Projektdetails können nicht abgerufen werden."
 
 msgid "Unable to retrieve project domain."
-msgstr "Projekt-Domäne kann nicht abgerufen werden."
+msgstr "Projekt-دامنه kann nicht abgerufen werden."
 
 msgid "Unable to retrieve project information of volume snapshots."
 msgstr ""
@@ -7816,10 +7816,10 @@ msgid "Unable to retrieve user details."
 msgstr "Benutzerdetails können nicht abgerufen werden."
 
 msgid "Unable to retrieve user domain role assignments."
-msgstr "Domänen-Rollenzuweisungen können nicht abgerufen werden."
+msgstr "دامنهn-Rollenzuweisungen können nicht abgerufen werden."
 
 msgid "Unable to retrieve user domain."
-msgstr "Benutzerdomäne kann nicht abgerufen werden."
+msgstr "Benutzerدامنه kann nicht abgerufen werden."
 
 msgid "Unable to retrieve user information."
 msgstr "Benutzerinformationen können nicht abgerufen werden."
@@ -7956,7 +7956,7 @@ msgstr ""
 "möglich."
 
 msgid "Unable to set Domain Context."
-msgstr "Domänen-Kontext kann nicht gesetzt werden."
+msgstr "دامنهn-Kontext kann nicht gesetzt werden."
 
 msgid "Unable to set bootable flag on volume."
 msgstr "Bootfähig Markierung kann für den Datenträger nicht gesetzt werden."
@@ -7987,7 +7987,7 @@ msgid "Unable to update encrypted volume type."
 msgstr "Aktualisieren von verschlüsselten Datenträgertypen nicht möglich."
 
 msgid "Unable to update group type."
-msgstr "Gruppentyp kann nicht aktualisiert werden."
+msgstr "گروه kann nicht aktualisiert werden."
 
 msgid "Unable to update group."
 msgstr "Gruppe kann nicht aktualisiert werden."
@@ -8214,7 +8214,7 @@ msgid "Update Metadata"
 msgstr "Aktualisiere Metadaten"
 
 msgid "Update Network"
-msgstr "Netzwerk aktualisieren"
+msgstr "شبکه aktualisieren"
 
 msgid "Update RBAC Policy"
 msgstr "RBAC Richtlinie aktualisieren"
@@ -8247,7 +8247,7 @@ msgid ""
 "Update a subnet associated with the network. Advanced configuration are "
 "available at \"Subnet Details\" tab."
 msgstr ""
-"Ein mit den Netzwerk verbundenes Subnetz aktualisieren. Für die detaillierte "
+"Ein mit den شبکه verbundenes Subnetz aktualisieren. Für die detaillierte "
 "Konfiguation den Reiter \"Subnetz Details\" anklicken."
 
 msgid "Update an Encrypted Volume Type"
@@ -8365,7 +8365,7 @@ msgstr "Benutzer \"%s\" wurde erfolgreich aktualisiert."
 
 #, python-format
 msgid "User \"%s\" was successfully created."
-msgstr "Der Benutzer \"%s\" wurde erfolgreich erstellt."
+msgstr "Der Benutzer \"%s\" wurde erfolgreich ساخته شد."
 
 msgid "User Credentials Details"
 msgstr "Benutzeranmeldedatendetails"
@@ -8609,7 +8609,7 @@ msgid ""
 "contain volumes hosted by the same back end."
 msgstr ""
 "Datenträgergruppen stellen ein Verfahren bereit, mit dem Schattenkopien "
-"mehrerer Datenträger zum selben Zeitpunkt erstellt werden können, um "
+"mehrerer Datenträger zum selben Zeitpunkt ساخته شد werden können, um "
 "Datenkonsistenz sicherzustellen.\n"
 "\n"
 "Eine Datenträgergruppe kann mehr als einen Datenträgertyp unterstützen, sie "
@@ -8709,7 +8709,7 @@ msgid ""
 "When the admin state of the port is enabled, the networking service forward "
 "packets on the port. Otherwise, it does not forward any packets on the port."
 msgstr ""
-"Bei aktiviertem Admin-Status des Ports wird der Netzwerkdienst Pakete über "
+"Bei aktiviertem Admin-Status des Ports wird der شبکهdienst Pakete über "
 "den Port weiterleiten. Andernfalls werden keine Pakete über den Port "
 "weitergeleitet."
 
@@ -8737,15 +8737,15 @@ msgid ""
 "tab (if the port security is enabled for the port)."
 msgstr ""
 "Sie können im nächsten Tab Sicherheitsgruppen zum Port hinzufügen oder "
-"löschen (sofern Portsicherheit für den Port aktiviert wurde)."
+"حذف (sofern Portsicherheit für den Port aktiviert wurde)."
 
 msgid ""
 "You can connect a specified external network to the router. The external "
 "network is regarded as a default route of the router and the router acts as "
 "a gateway for external connectivity."
 msgstr ""
-"Sie können ein ausgewähltes externes Netzwerk mit dem Router verbinden. Das "
-"externe Netzwerk wird als Standardroute des Routers genutzt und der Router "
+"Sie können ein ausgewähltes externes شبکه mit dem Router verbinden. Das "
+"externe شبکه wird als Standardroute des Routers genutzt und der Router "
 "agiert als Gateway zur externen Anbindung."
 
 msgid "You can connect a specified subnet to the router."
@@ -8755,8 +8755,8 @@ msgid ""
 "You can create a port for the network. If you specify device ID to be "
 "attached, the device specified will be attached to the port created."
 msgstr ""
-"Sie können einen Port für Ihr Netzwerk erstellen. Wenn Sie Ihre Geräte-ID "
-"angeben wird das Gerät mit dem neu erstellten Port verbunden."
+"Sie können einen Port für Ihr شبکه ساختن. Wenn Sie Ihre Geräte-ID "
+"angeben wird das Gerät mit dem neu ساخته شدen Port verbunden."
 
 msgid "You can edit the properties of your port here."
 msgstr "Sie können die Eigenschaften Ihres Ports hier ändern."
@@ -8776,8 +8776,8 @@ msgid ""
 "currently logged into. Please switch to another domain with administrative "
 "privileges or remove the administrative role manually via the CLI."
 msgstr ""
-"Sie können Ihre Administrationsrechte nicht für die Domäne löschen, in der "
-"Sie gerade angemeldet sind. Bitte wechseln Sie in eine andere Domäne mit "
+"Sie können Ihre Administrationsrechte nicht für die دامنه حذف, in der "
+"Sie gerade angemeldet sind. Bitte wechseln Sie in eine andere دامنه mit "
 "Administrationsrechten oder entfernen Sie die administrative Rolle manuell "
 "mit Hilfe des CLI."
 
@@ -8830,7 +8830,7 @@ msgstr ""
 "aktualisiert."
 
 msgid "You may update the editable properties of your network here."
-msgstr "Sie können alle editierbaren Netzwerkeinstellungen hier aktualisieren."
+msgstr "Sie können alle editierbaren شبکهeinstellungen hier aktualisieren."
 
 msgid "You may update the editable properties of your router here."
 msgstr ""
@@ -8871,7 +8871,7 @@ msgid "both"
 msgstr "beide"
 
 msgid "by Network (and IP address)"
-msgstr "durch das Netzwerk (und die IP-Adresse)"
+msgstr "durch das شبکه (und die IP-Adresse)"
 
 msgid "by Port"
 msgstr "durch den Port"
@@ -8880,13 +8880,13 @@ msgid "dm-crypt"
 msgstr "dm-crypt"
 
 msgid "down"
-msgstr "Inaktiv"
+msgstr "پایین"
 
 msgid "e.g. ACTIVE / DOWN / ERROR"
-msgstr "z.B. AKTIV / INAKTIV / FEHLER"
+msgstr "z.B. AKTIV / پایین / FEHLER"
 
 msgid "e.g. UP / DOWN"
-msgstr "z.B. AKTIV / INAKTIV"
+msgstr "z.B. AKTIV / پایین"
 
 msgid "e.g. Yes / No"
 msgstr "z.B. Ja / Nein"
@@ -8903,7 +8903,7 @@ msgid ""
 "create key with different name."
 msgstr ""
 "Der Schlüssel mit dem Namen \"%s\" ist bereits vorhanden. Bearbeiten Sie den "
-"Wert oder erstellen Sie einen Schlüssel mit einem anderen Namen."
+"Wert oder ساختن Sie einen Schlüssel mit einem anderen Namen."
 
 msgid "no"
 msgstr "nein"
